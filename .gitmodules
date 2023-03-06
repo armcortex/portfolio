@@ -1,0 +1,3 @@
+[submodule "portfolio/themes/hugo-tranquilpeak-theme"]
+	path = portfolio/themes/hugo-tranquilpeak-theme
+	url = https://github.com/armcortex/hugo-tranquilpeak-theme.git
