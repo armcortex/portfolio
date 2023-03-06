@@ -21,6 +21,7 @@ Using Oscilloscope to plot words
 <!--more-->
 
 # Demo
+[Github](https://github.com/armcortex/Arduino_Scope_XY_Text)
 {{< youtube DNeIA9IsSRQ >}}
 
 # How to use it

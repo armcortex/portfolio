@@ -12,6 +12,9 @@ slug: my-post-name
 
 <!-- for peek -->
 
-<!--more-->
 
+<!--more-->
+# Demo
+[Github](addr)
+{{< youtube video_id >}}
 
