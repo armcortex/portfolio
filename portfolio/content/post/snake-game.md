@@ -16,7 +16,7 @@ Snake game by Python
 
 <!--more-->
 # Demo
-[Github]([addr](https://github.com/armcortex/snake_game))
+[Github](https://github.com/armcortex/snake_game)
 ![gif](/images/snake-game/snake_game.gif)
 
 ## Prerequisites
