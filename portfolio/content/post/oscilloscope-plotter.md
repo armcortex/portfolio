@@ -8,7 +8,7 @@ tags:
 - Arduino
 - Electronics
 slug: oscilloscope-plotter
-thumbnailImage: /images/oscilloscope-plotter/demo.png
+thumbnailImage: /images/oscilloscope-plotter/plotter_demo.png
 # coverImage: /images/oscilloscope-plotter/demo.png
 # coverSize: partial
 ---
