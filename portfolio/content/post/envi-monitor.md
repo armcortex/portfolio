@@ -1,9 +1,9 @@
 ---
 title: "Environment Monitor"
-date: 2023-03-06T11:18:34Z
+date: "2020-03-05"
 categories:
-- programming
-- projects
+- Firmware
+- Software
 tags:
 - Embedded C
 - Python

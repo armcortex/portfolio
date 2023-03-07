@@ -1,9 +1,8 @@
 ---
 title: "Oscilloscope Plotter"
-date: 2023-03-06T09:52:02Z
+date: "2021-06-19"
 categories:
-- programming
-- projects
+- Firmware
 tags:
 - Embedded C
 - Arduino

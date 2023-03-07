@@ -1,8 +1,9 @@
 ---
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
-date: {{ .Date }}
+date: "{{ dateFormat "2006-01-02" .Date }}"
 categories:
-- programming
+- Software
+- Firmware
 tags:
 - tag1
 - tag2
@@ -11,7 +12,7 @@ slug: my-post-name
 ---
 
 <!-- for peek -->
-
+waku waku waku waku waku 
 
 <!--more-->
 # Demo

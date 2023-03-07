@@ -157,7 +157,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo".
   # If false it will flat categories.
-  hierarchicalCategories = true
+  hierarchicalCategories = false
 
   # Display `Next` on left side of the pagination, and `Prev` on right side one.
   # If you set this value to `true`, these positions swap.
