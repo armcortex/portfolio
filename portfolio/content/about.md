@@ -20,7 +20,7 @@ comments: false
     <a href='/files/CV_TedLi_Job.pdf'>Download Resume</a>
 </h4>
 
-## Work Experience
+## Work Experiences
 
 <div class='display-card experience-card'>
     <h3 class='company'>Artesyn Embedded Technologies</br>
@@ -90,6 +90,7 @@ comments: false
     <span>VMware</span>
     <span>VSCode</span>
     <span>PyCharm</span>
+    <span>PSIM</span>
     <span>Windows</span>
     <span>Ubuntu</span>
     <span>macOS</span>
