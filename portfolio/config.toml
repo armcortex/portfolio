@@ -37,8 +37,10 @@ canonifyurls = true
   # Set startLevel = 1 to support # title (<h1>title</h1>) otherwise table of content is blank/empty
   [markup.tableOfContents]
     endLevel = 3
-    ordered = false
+    ordered = true
     startLevel = 1
+  [markup.goldmark.renderer]
+    unsafe = true
 
 # ------
 # Author
@@ -93,7 +95,9 @@ canonifyurls = true
   identifier = "about"
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
-  url = "/#about"
+  # url = "/#about"
+  url = "/about"
+
 
 [[menu.links]]
   weight = 1
@@ -179,7 +183,7 @@ canonifyurls = true
   #    large sidebar is swiped on all lower screens
   # 5: Display header bar on all screens and large sidebar is swiped on large screen
   # 6: Display header bar on all screens and medium sidebar is swiped
-  sidebarBehavior = 1
+  sidebarBehavior = 2
 
   # Customize link of author avatar in sidebar
   #  [params.sidebar.profile]
@@ -218,8 +222,8 @@ canonifyurls = true
   # ------------------
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
-  #  [[params.customCSS]]
-  #    href = "css/mystyle.css"
+   [[params.customCSS]]
+     href = "css/main.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
