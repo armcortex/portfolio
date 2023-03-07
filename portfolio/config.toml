@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://armcortex.github.io/"
+baseURL = "https://armcortex.github.io/portfolio/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Robotics Enthusiast"
@@ -361,7 +361,7 @@ canonifyurls = true
   # --------------
   [params.comment]
     [params.comment.disqus]
-      enable = true
+      enable = false
       shortname = "tedli"
     [params.comment.gitalk]
       enable = false
