@@ -1,6 +1,6 @@
 ---
 title: "Ted Who?"
-coverImage: post/about/images/about_cover.jpg
+coverImage: post/about/images/bike.jpg
 coverSize: partial
 showTags: false
 showPagination: false
