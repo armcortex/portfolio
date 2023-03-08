@@ -8,7 +8,7 @@ tags:
 - Game
 - GUI
 slug: snake-game
-thumbnailImage: /images/snake-game/snake_game_cover.jpg
+thumbnailImage: /post/snake-game/images/snake_game_cover.jpg
 ---
 
 <!-- for peek -->
@@ -17,7 +17,7 @@ Snake game by Python
 <!--more-->
 # Demo
 [Github](https://github.com/armcortex/snake_game)
-![gif](/images/snake-game/snake_game.gif)
+![gif](/post/snake-game/images/snake_game.gif)
 
 ## Prerequisites
 - pipenv

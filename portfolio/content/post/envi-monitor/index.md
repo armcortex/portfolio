@@ -17,7 +17,7 @@ tags:
 - SQL
 - IOT
 slug: envi-monitor
-thumbnailImage: /images/envi-monitor/dashboard.jpg
+thumbnailImage: /post/envi-monitor/images/dashboard.jpg
 ---
 
 <!-- for peek -->
@@ -28,7 +28,7 @@ Web-based environment monitor.
 
 # Demo
 [Github](https://github.com/armcortex/env_monitor)
-![Demo](/images/envi-monitor/dashboard.jpg)
+![Demo](/post/envi-monitor/images/dashboard.jpg)
 
 
 # Prerequisites
@@ -42,7 +42,7 @@ Web-based environment monitor.
 * Resistor 330Ω *2
 * LED *1
 * Couple wires
-![Circuit](/images/envi-monitor/circuit.jpg)
+![Circuit](/post/envi-monitor/images/circuit.jpg)
 
 # Install
 Install tools for NodeMCU from Pipfile:
@@ -58,7 +58,7 @@ there is a database in InfluxDB. Edit `/env_monitor/config.json`.
 2. Upload code to NodeMCU: `./run_all.sh`.
 3. Connect to NodeMCU through USB for debug: `./connect_device.sh`.
     If everything goes well, you will see some information like below.
-    ![connect_info](/images/envi-monitor/connect_info.jpg)
+    ![connect_info](/post/envi-monitor/images/connect_info.jpg)
 
 4. Open Grafana webpage and import `/grafana/Env_Monitor.json`. 
     Or you can design your own dashboard.
