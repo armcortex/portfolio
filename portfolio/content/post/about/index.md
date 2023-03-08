@@ -8,6 +8,7 @@ showSocial: false
 showMeta: false
 showActions: false
 comments: false
+type: about
 ---
 
 <h4 class='text-center'>
