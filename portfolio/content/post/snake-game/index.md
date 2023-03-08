@@ -8,7 +8,7 @@ tags:
 - Game
 - GUI
 slug: snake-game
-thumbnailImage: /post/snake-game/images/snake_game_cover.jpg
+thumbnailImage: post/snake-game/images/snake_game_cover.jpg
 ---
 
 <!-- for peek -->
