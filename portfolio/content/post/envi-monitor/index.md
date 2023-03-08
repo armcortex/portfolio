@@ -17,7 +17,7 @@ tags:
 - SQL
 - IOT
 slug: envi-monitor
-thumbnailImage: /post/envi-monitor/images/dashboard.jpg
+thumbnailImage: post/envi-monitor/images/dashboard.jpg
 ---
 
 <!-- for peek -->
