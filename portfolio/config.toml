@@ -56,7 +56,7 @@ canonifyurls = true
   # gravatarEmail = "armcortexfpga@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
-  picture = "/images/self/self.jpg"
+  picture = "images/self/self.jpg"
   # Your Twitter username without the @. E.g : thibaudlepretre
   # twitter = "thibaudlepretre"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
@@ -224,7 +224,7 @@ canonifyurls = true
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
    [[params.customCSS]]
-     href = "css/main.css"
+     href = "/css/main.css"
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
