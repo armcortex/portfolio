@@ -1,6 +1,6 @@
 ---
 title: "Ted Who?"
-coverImage: about_cover.jpg
+coverImage: post/about_cover.jpg
 coverSize: partial
 showTags: false
 showPagination: false
