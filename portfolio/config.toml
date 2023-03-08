@@ -12,8 +12,8 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://armcortex.github.io/portfolio/"
-# baseURL = "https://armcortex.github.io/"
+# baseURL = "https://armcortex.github.io/portfolio/"
+baseURL = "https://armcortex.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Robotics Enthusiast"
@@ -97,7 +97,7 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   # url = "/#about"
-  url = "about/"
+  url = "/about"
 
 
 [[menu.links]]
