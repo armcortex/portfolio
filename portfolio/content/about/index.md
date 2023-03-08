@@ -17,7 +17,7 @@ comments: false
 </h4>
 
 <h4 class='text-right'>
-    <a href='/files/CV_TedLi_Job.pdf'>Download Resume</a>
+    <a href='/about/files/CV_TedLi_Job.pdf'>Download Resume</a>
 </h4>
 
 ## Work Experiences
