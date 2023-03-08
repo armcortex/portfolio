@@ -1,6 +1,6 @@
 ---
 title: "Ted Who?"
-coverImage: post/about_cover.jpg
+coverImage: post/about/images/about_cover.jpg
 coverSize: partial
 showTags: false
 showPagination: false
@@ -17,7 +17,7 @@ comments: false
 </h4>
 
 <h4 class='text-right'>
-    <a href='/about/files/CV_TedLi_Job.pdf'>Download Resume</a>
+    <a href='/post/about/files/CV_TedLi_Job.pdf'>Download Resume</a>
 </h4>
 
 ## Work Experiences
