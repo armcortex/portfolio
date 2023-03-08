@@ -13,7 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 # baseURL = "https://armcortex.github.io/portfolio/"
-baseURL = "//armcortex.github.io/"
+baseURL = "https://armcortex.github.io/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Robotics Enthusiast"
