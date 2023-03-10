@@ -97,7 +97,7 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-question\" aria-hidden=\"true\"></i>"
   # url = "/#about"
-  url = "/about"
+  url = "/self"
 
 
 [[menu.links]]
