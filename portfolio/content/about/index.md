@@ -13,7 +13,11 @@ comments: false
 <h4 class='text-center'>
     I am a senior software/firmware engineer.
     <br/>
-    I make fun projects.
+    I make fun projects. 
+    <br/>
+    Hack it, break it, and make it better. 
+    <br/>
+    A perceptive engineer who is always providing different perspective to problems with cross-domain knowledge.
 </h4>
 
 <h4 class='text-right'>
@@ -67,6 +71,8 @@ comments: false
     <span>RTOS</span>
     <span>VHDL</span>
     <span>Verilog</span>
+    <span>NIOS II</span>
+    <span>SOPC</span>
 </div>
 
 <div class='display-card skills'>
@@ -90,6 +96,8 @@ comments: false
     <span>VMware</span>
     <span>VSCode</span>
     <span>PyCharm</span>
+    <span>Quartius II</span>
+    <span>ModelSim</span>
     <span>PSIM</span>
     <span>Windows</span>
     <span>Ubuntu</span>
@@ -115,6 +123,9 @@ comments: false
     <span>NodeMCU</span>
     <span>Arduino</span>
     <span>Parallella</span>
+    <span>Altera DE0</span>
+    <span>Altera DE0-Nano</span>
+    <span>Altera DE2-115</span>
 </div>
 
 <div class='display-card skills'>
@@ -124,3 +135,30 @@ comments: false
     <span>Autodesk Fusion360</span>
     <span>Autodesk Eagle</span>
 </div>
+
+## Education
+
+
+**The University of Electro-Communications, Tokyo, Japan** - 
+<small class='edu-dates'>Apr 2014 - Mar 2015</small> \
+<small class='edu-level'>The Japanese University Studies in Science & Technology (Exchange Study)</small>
+- Research Project: Convolutional Neural Network based on Embedded System
+- Focus: Machine Learning, Classification, Image Processing, Embedded System
+
+
+**Tamkang University, New Taipei City, Taiwan** - 
+<small class='dates'>Sep 2012 - Jun 2015</small> \
+<small class='edu-level'>M.S. Robotics Engineering</small>
+- Thesis: Picture-Based Drafting System for Robot Manipulators
+- Focus: Robotics, Manipulator Motion Control, Path Planning, Image Processing
+
+**Feng Chia University, Taichung, Taiwan** - 
+<small class='dates'>Aug 2008 - Jun 2012</small> \
+<small class='edu-level'>B.S. Automatic Control Engineering</small>
+- Undergraduate Project: The Heating Constant Temperature Control System Design for New Strapping Machine
+- Focus: Linear Control System, System Identification, Embedded System, Circuit Design
+
+## Hobbies
+### Super Bike
+### Rock Climbing
+### Mountain Climbing

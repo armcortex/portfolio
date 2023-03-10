@@ -74,3 +74,13 @@
     margin-right: 10px;
     object-fit: cover;
 }
+
+.edu-dates {
+    font-size: 0.85em;
+    opacity: 0.75;
+}
+
+.edu-level {
+    font-size: 0.85em;
+    opacity: 0.75;
+}
