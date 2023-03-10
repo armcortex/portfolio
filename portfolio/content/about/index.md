@@ -159,6 +159,7 @@ comments: false
 - Focus: Linear Control System, System Identification, Embedded System, Circuit Design
 
 ## Hobbies
-[Super Bike](/about/hobby/superbike/superbike)
+[Super Bike](/hobby/superbike)
+
 ### Rock Climbing
 ### Mountain Climbing
