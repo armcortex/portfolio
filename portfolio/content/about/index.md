@@ -2,6 +2,7 @@
 title: "Ted Who?"
 coverImage: "about/images/bike.jpg"
 coverSize: partial
+thumbnailImage: about/images/bike.jpg
 showTags: false
 showPagination: false
 showSocial: false
