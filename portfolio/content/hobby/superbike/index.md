@@ -12,7 +12,7 @@ My Super Bike gallery !!!
 
 ## SUZUKI
 {{< image classes="left fancybox fig-50" src="/hobby/superbike/images/suzuki_gsxr1000r_1.jpg" thumbnail="/hobby/superbike/images/small/suzuki_gsxr1000r_1_small.jpeg" thumbnail-width="95%" thumbnail-height="100%" title="SUZUKI GSX-R1000R">}}
-{{< image classes="right fancybox fig-50" src="/hobby/superbike/images/suzuki_gsxr1000r_2.jpg" thumbnail="/hobby/superbike/images/small/suzuki_gsxr1000r_2.jpeg" thumbnail-width="100%" thumbnail-height="100%" title="SUZUKI GSX-R1000R">}}
+{{< image classes="right fancybox fig-50" src="/hobby/superbike/images/suzuki_gsxr1000r_2.jpg" thumbnail="/hobby/superbike/images/small/suzuki_gsxr1000r_2_small.jpeg" thumbnail-width="100%" thumbnail-height="100%" title="SUZUKI GSX-R1000R">}}
 {{< image classes="right fancybox fig-50" src="/hobby/superbike/images/suzuki_gsxr1000r_3.jpg" thumbnail="/hobby/superbike/images/small/suzuki_gsxr1000r_3_small.jpeg" thumbnail-width="100%" thumbnail-height="100%" title="SUZUKI GSX-R1000R">}}
 
 {{< image classes="fancybox fig-33" src="/hobby/superbike/images/suzuki_sv650.jpg" thumbnail="/hobby/superbike/images/small/suzuki_sv650_small.jpeg" thumbnail-width="100%" thumbnail-height="100%" title="SUZUKI SV650">}}
