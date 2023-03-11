@@ -161,4 +161,5 @@ comments: false
 ## Hobbies
 [Super Bike](/hobby/superbike)
 
-### Rock Climbing
+## Rock Climbing
+[Rock Climbing](/hobby/rock-climbing)
