@@ -8,7 +8,7 @@ tags:
 slug: rock-climbing
 ---
 
-My Rock Climbing archive
+<h4 class='text-center'> My Rock Climbing archive </h4>
 
 <div class="yt-grid-container">
     <div>{{< youtube M6b9K_-meSI >}} 2021/10/19</div>
