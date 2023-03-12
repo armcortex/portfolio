@@ -18,8 +18,8 @@ Build a CNC clock from 3C recycling center
 <!--more-->
 # Demo
 [Github](https://github.com/armcortex/CNC_Clock)
-{{< image classes="fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_front.JPG" group="cnc-0" title="Font View">}}
-{{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_back.JPG" group="cnc-0" title="Back View">}}
+{{< image classes="fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_front.jpg" group="cnc-0" title="Font View">}}
+{{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_back.jpg" group="cnc-0" title="Back View">}}
 
 {{< youtube iBKizaBvV7M >}}
 
