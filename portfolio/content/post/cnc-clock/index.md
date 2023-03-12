@@ -10,12 +10,12 @@ tags:
 - Motor Control
 slug: cnc-clock
 thumbnailImage: post/cnc-clock/images/cnc_clock_front_small.jpeg
-gallery: 
-- /post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg
-- /post/cnc-clock/images/gallery/2_cdrom_detail.jpg
-- /post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg
-- /post/cnc-clock/images/gallery/4_simple_experiment.jpg
-- /post/cnc-clock/images/gallery/5_simple_experiment2.jpg
+# gallery: 
+# - /post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg
+# - /post/cnc-clock/images/gallery/2_cdrom_detail.jpg
+# - /post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg
+# - /post/cnc-clock/images/gallery/4_simple_experiment.jpg
+# - /post/cnc-clock/images/gallery/5_simple_experiment2.jpg
 ---
 
 <!-- for peek -->
@@ -47,17 +47,20 @@ so it take lots of time to do experiments and make simple things done.
 ## Disassemble 
 Just get the important parts and make some fun with it.
 
-{{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg" group="cnc" title="CD-ROM Frame">}}
-{{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/2_cdrom_detail.jpg" group="cnc" title="CD-ROM Details">}}
-{{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg" group="cnc" title="CD-ROM Laser">}}
-{{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/4_simple_experiment.jpg" group="cnc" title="Simple Experiment">}}
-{{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/5_simple_experiment2.jpg" group="cnc" title="With Limit Experiment">}}
+{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg" group="cnc-1" title="CD-ROM Frame">}}
+{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/2_cdrom_detail.jpg" group="cnc-1" title="CD-ROM Details">}}
+{{< image classes="clear fancybox fig-33" src="/post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg" group="cnc-1" title="CD-ROM Laser">}}
 
+## Experiments
+Tuning stepper motor controller and test limit protections
 
-<!-- {{< image classes="fancybox fig-20" src="/post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg" thumbnailWidth="50%" thumbnailHeigh="50%" group="abc" title="">}}
-{{< image classes="fancybox" src="/post/cnc-clock/images/gallery/2_cdrom_detail.jpg" thumbnailWidth="50%" thumbnailHeigh="50%" group="abc" title="">}}
+{{< image classes="fancybox fig-50" src="/post/cnc-clock/images/gallery/4_simple_experiment.jpg" group="cnc-2" title="Simple Experiment">}}
+{{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/gallery/5_simple_experiment2.jpg" group="cnc-2" title="With Limit Experiment">}}
 
-{{< image classes="fancybox" src="/post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg" group="fancybox" title="Font View">}}
-{{< image classes="fancybox" src="/post/cnc-clock/images/gallery/4_simple_experiment.jpg" group="fancybox" title="Font View">}}
-{{< image classes="fancybox" src="/post/cnc-clock/images/gallery/5_simple_experiment2.jpg" group="CNC-Clock" title="Font View">}} -->
+## Assemble
+Put hardware parts all together
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/9_prototype.jpg" group="cnc-3"  title="Full assembled">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/7_limit_switch.jpg" group="cnc-3"  title="Back View">}}
+{{< image classes="center fancybox fig-25" src="/post/cnc-clock/images/gallery/6_build_the_cnc_frame.jpg" group="cnc-3"  title="Limit Switch">}}
+{{< image classes="clear center fancybox fig-25" src="/post/cnc-clock/images/gallery/8_cnc_sits_details.jpg" group="cnc-3"  title="Some Detail">}} 
 
