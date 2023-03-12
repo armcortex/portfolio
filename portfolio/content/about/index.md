@@ -33,8 +33,10 @@ comments: false
     <h6 class='description'>
         <b>Senior Software and firmware engineer</b>
         <li>Embedded system development</li>
-        <li>Developed automatic tools for firmware team</li>
+        <li>Developed software tools for firmware team</li>
         <li>Cross-functional collaboration development</li>
+        <div style="line-height: 0.5em;"><br/></div>
+        Focus: Reinforcement Learning, Embedded System Security, Software Automation
     </h6>
 </div>
 
@@ -48,8 +50,10 @@ comments: false
     <h6 class='description'>
         <b>Firmware engineer</b>
         <li>Embedded system development</li>
-        <li>Developed automatic tools for firmware team</li>
+        <li>Developed software tools for embedded system</li>
         <li>Support/debug EE issues</li>
+        <div style="line-height: 0.5em;"><br/></div>
+        Focus: RTOS, Signal Measurement, Software Tools
     </h6>
 </div>
 
