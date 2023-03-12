@@ -10,12 +10,6 @@ tags:
 - Motor Control
 slug: cnc-clock
 thumbnailImage: post/cnc-clock/images/cnc_clock_front_small.jpeg
-# gallery: 
-# - /post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg
-# - /post/cnc-clock/images/gallery/2_cdrom_detail.jpg
-# - /post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg
-# - /post/cnc-clock/images/gallery/4_simple_experiment.jpg
-# - /post/cnc-clock/images/gallery/5_simple_experiment2.jpg
 ---
 
 <!-- for peek -->
@@ -81,9 +75,9 @@ Breadboard is not stabe, so time to do some dirty job
 {{< image classes="clear center fancybox fig-50" src="/post/cnc-clock/images/gallery/19_main_controller_back_view.jpg" group="cnc-5" title="Motor Controller Board Back View">}}
 
 ## Some System Details
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/20_schematic.png" group="cnc-5" title="Motor Controller Schematic">}}
-{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/21_main_structure.jpg" group="cnc-5" title="Motor Controller System Structure">}}
-{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/22_sub_system_structure.jpg" group="cnc-5" thumbnail-width="85%" thumbnail-height="85%" title="LCD Controller System Structure">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/20_schematic.png" group="cnc-6" title="Motor Controller Schematic">}}
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/21_main_structure.jpg" group="cnc-6" title="Motor Controller System Structure">}}
+{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/22_sub_system_structure.jpg" group="cnc-6" thumbnail-width="85%" thumbnail-height="85%" title="LCD Controller System Structure">}}
 
 
 ## Firmware
