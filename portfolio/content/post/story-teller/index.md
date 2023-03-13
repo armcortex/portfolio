@@ -16,9 +16,10 @@ thumbnailImage: post/story-teller/images/midjourney_small.jpeg
 Automatic create stories with ChatGPT + Midjourney + FFmpeg
 
 <!--more-->
-# Demo
+## Video Demo
 [Github](https://github.com/armcortex/tell_a_story)
-![Story](/post/story-teller/images/midjourney.png)
+<!-- ![Story](/post/story-teller/images/midjourney.png) -->
+{{< youtube xowItPDmx4o >}}
 
 
 ## Steps
