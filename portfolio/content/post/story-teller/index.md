@@ -30,7 +30,7 @@ Automatic create stories with ChatGPT + Midjourney + FFmpeg
 ## Features
 - `check_point.py` will save the process step, if process failed system will restart and `check_point.py` will restore last step and continue
 - `discordbot.py` will report program status
-{{< image classes="clear fancybox fig-75" src="/post/story-teller/images/discord_log.png" group="cnc-0" title="Font View">}}
+{{< image classes="clear fancybox fig-75" src="/post/story-teller/images/discord_log.png">}}
 
 
 ## Setup
