@@ -28,7 +28,13 @@ Web-based environment monitor.
 
 # Demo
 [Github](https://github.com/armcortex/env_monitor)
+
+Web UI
 ![Demo](/post/envi-monitor/images/dashboard.jpg)
+
+Home Usage
+{{< image classes="clear fancybox fig-50" src="/post/envi-monitor/images/home_usage.jpg">}}
+
 
 
 # Prerequisites
