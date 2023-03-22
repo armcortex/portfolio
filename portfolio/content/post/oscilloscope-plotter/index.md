@@ -3,6 +3,7 @@ title: "Oscilloscope Plotter"
 date: "2021-06-19"
 categories:
 - Firmware
+- Hardware
 tags:
 - Embedded C
 - Arduino

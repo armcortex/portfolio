@@ -3,11 +3,14 @@ title: "CNC Clock"
 date: "2014-12-20"
 categories:
 - Firmware
+- Hardware
 tags:
 - Arduino
 - Electronics
 - Embedded C
 - Motor Control
+- Stepper Motor
+- Mechanism Design
 slug: cnc-clock
 thumbnailImage: post/cnc-clock/images/cnc_clock_front_small.jpeg
 ---

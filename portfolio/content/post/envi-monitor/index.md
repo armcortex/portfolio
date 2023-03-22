@@ -16,6 +16,7 @@ tags:
 - Electronics
 - SQL
 - IOT
+- Raspberry Pi
 slug: envi-monitor
 thumbnailImage: post/envi-monitor/images/dashboard.jpg
 ---
@@ -43,6 +44,7 @@ Home Usage
 * [Grafana](https://grafana.com/docs/grafana/latest/installation/debian/)
 
 # Circuit
+* Raspberry Pi *1 (Run web server and database service)
 * NodeMCU *1
 * SHT20 *1
 * Resistor 330Ω *2

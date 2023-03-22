@@ -7,6 +7,7 @@ tags:
 - Python
 - Game
 - GUI
+- Python Lib pygame
 slug: snake-game
 thumbnailImage: post/snake-game/images/snake_game_cover.jpg
 ---

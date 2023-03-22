@@ -4,10 +4,9 @@ date: "2023-03-17"
 categories:
 - Software
 - Firmware
-tags:
-- Software
-- Firmware
 - Hardware
+tags:
+- image gallery
 slug: building-my-ultimate-dream-setup
 thumbnailImage: post/building-my-ultimate-dream-setup/images/pc_desktop_setup.jpg
 gallery:

@@ -7,6 +7,7 @@ categories:
 tags:
 - Arduino
 - Electronics
+- Embedded C
 - Fusion 360
 - Mechanism Design
 slug: auto-light

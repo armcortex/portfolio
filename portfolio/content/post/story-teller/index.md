@@ -7,6 +7,8 @@ tags:
 - Python
 - ChatGPT API
 - Discord API
+- Python Lib asyncio
+- Python Lib multiprocessing
 - FFmpeg
 slug: story-teller
 thumbnailImage: post/story-teller/images/midjourney_small.jpeg
