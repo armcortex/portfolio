@@ -22,7 +22,7 @@ gallery:
 ---
 
 <!-- for peek -->
-It will help me to turn on/off the light. Turn on the light if I'm in the spot, and turn off after I leave over 10 minutes.
+It will help me to turn on/off the light. Turn on the light if I'm in the spot, and turn off after I leave over 10 minutes. 
 
 <!--more-->
 # Demo
