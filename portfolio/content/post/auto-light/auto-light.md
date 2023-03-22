@@ -11,7 +11,7 @@ tags:
 - Fusion 360
 - Mechanism Design
 slug: auto-light
-thumbnailImage: /post/auto-light/images/auto_light2.jpg
+thumbnailImage: post/auto-light/images/auto_light2.jpg
 gallery:
 - /post/auto-light/images/auto_light1.jpg "Main Control Board"
 - /post/auto-light/images/auto_light5.jpg "Sonar Sensor"
