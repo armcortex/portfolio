@@ -27,8 +27,6 @@ This paper proposes a system for drawing with a six-axis robotic arm, designed u
 {{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.jpg" group="x1" title="Drawing System Platform" >}}
 {{< image classes="clear" >}}
 
-
-
 <div class="yt-grid-container">
     <div>{{< youtube soZrOPOBoho >}} Simple Image Drawing</div>
     <div>{{< youtube ZAvJxzBUlSo >}} Complex Scenery Drawing</div>
@@ -36,3 +34,9 @@ This paper proposes a system for drawing with a six-axis robotic arm, designed u
     <div>{{< youtube yRbb-1BH_3A >}} With B-spline and correct motion control</div>
     <div>{{< youtube ghKzJ27jmhE >}} Without Path Planning</div>
 </div>
+
+
+# System Architecture 
+{{< image classes="fancybox fig-75" src="/post/picture-based-drafting-system-for-robot-manipulators/images/graphviz/system_architecture/drawing_system_architecture.png" >}}
+{{< image classes="clear" >}}
+

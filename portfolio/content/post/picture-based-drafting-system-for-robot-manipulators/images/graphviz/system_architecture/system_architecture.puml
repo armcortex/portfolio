@@ -1,0 +1,35 @@
+@startuml "Drawing_system_architecture"
+title Drawing system architecture
+
+hide empty description
+!theme crt-amber
+
+skinparam {
+    wrapWidth 250
+}
+
+state "Image Processing" as ip {
+    ' scale 200 width
+    state "Adaptive Thresholding" as at: <img:./imgs/threshold1.jpg{scale=0.3}>
+    state "Filter" as f: <img:./imgs/threshold2.jpg{scale=0.3}>
+    state "Generate Path \n via B-Spline" as gp: <img:./imgs/path2.jpg{scale=0.25}>
+    state "3D Path Planning" as 3d: <img:./imgs/3d_path.jpg{scale=0.3}>
+    
+    at -> f
+    f -> gp
+    gp -> 3d
+}
+
+state "KUKA Robot Manipulator" as robot {
+    state "Motion Control" as m: <img:./imgs/kuka_pad.jpg{scale=0.075}>
+    state "Drawing" as draw: <img:./imgs/drawing.jpg{scale=0.06}>
+    state "Results" as result: <img:./imgs/result.jpg{scale=0.1}>
+
+    m -> draw
+    draw -> result
+}
+
+ip --> robot: Communication vis UDP XML
+
+
+@enduml
