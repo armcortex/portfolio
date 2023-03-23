@@ -28,6 +28,6 @@ It will help me to turn on/off the light. Turn on the light if I'm in the spot, 
 # Demo
 [Github]([addr](https://github.com/armcortex/auto_light))
 
-{{< image classes="fig-50" src="/post/auto-light/images/auto_light2.jpg" group="x1" title="Demo">}}
-{{< image classes="clear fig-50" src="/post/auto-light/images/auto_light_cad.png" group="x1" title="Fusion360 CAD View">}}
+{{< image classes="fancybox fig-50" src="/post/auto-light/images/auto_light2.jpg" group="x1" title="Demo">}}
+{{< image classes="clear fancybox fig-50" src="/post/auto-light/images/auto_light_cad.png" group="x1" title="Fusion360 CAD View">}}
 

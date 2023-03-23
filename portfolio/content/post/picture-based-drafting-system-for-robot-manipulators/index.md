@@ -23,7 +23,11 @@ This paper proposes a system for drawing with a six-axis robotic arm, designed u
     <a href='/post/picture-based-drafting-system-for-robot-manipulators/files/20150803_GuanTingLi_paper.pdf'>Paper</a>
 </h4>
 
-{{< image classes="clear fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_demo.jpg" title="Results" >}}
+{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_demo.jpg" group="x1" title="Results" >}}
+{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.jpg" group="x1" title="Drawing System Platform" >}}
+{{< image classes="clear" >}}
+
+
 
 <div class="yt-grid-container">
     <div>{{< youtube soZrOPOBoho >}} Simple Image Drawing</div>
