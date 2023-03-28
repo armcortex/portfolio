@@ -34,7 +34,7 @@ My development environment
   - Dell 24"
 - Laptop
   - MacBook 12"
-  - MacBook air M2
+  <!-- - MacBook Air M2 -->
 - Others
   - UPS: APC Online 1500VA (SMT1500TW)
   - Router: Synology RT2600ac 
