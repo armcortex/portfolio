@@ -44,38 +44,38 @@ so it take lots of time to do experiments and make simple things done.
 ## Disassemble 
 Just get the important parts and make some fun with it.
 
-{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/1_cdrom_floopy_frame.JPG" group="cnc-1" title="CD-ROM Frame">}}
-{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/2_cdrom_detail.JPG" group="cnc-1" title="CD-ROM Details">}}
-{{< image classes="clear fancybox fig-33" src="/post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.JPG" group="cnc-1" title="CD-ROM Laser">}}
+{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/1_cdrom_floopy_frame.jpg" group="cnc-1" title="CD-ROM Frame">}}
+{{< image classes="fancybox fig-33" src="/post/cnc-clock/images/gallery/2_cdrom_detail.jpg" group="cnc-1" title="CD-ROM Details">}}
+{{< image classes="clear fancybox fig-33" src="/post/cnc-clock/images/gallery/3_cdrom_laser_linear_motor.jpg" group="cnc-1" title="CD-ROM Laser">}}
 
 ## Simple Experiments
 Tuning stepper motor controller and test limit protections
 
-{{< image classes="fancybox fig-50" src="/post/cnc-clock/images/gallery/4_simple_experiment.JPG" group="cnc-2" title="Simple Experiment">}}
-{{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/gallery/5_simple_experiment2.JPG" group="cnc-2" title="With Limit Experiment">}}
+{{< image classes="fancybox fig-50" src="/post/cnc-clock/images/gallery/4_simple_experiment.jpg" group="cnc-2" title="Simple Experiment">}}
+{{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/gallery/5_simple_experiment2.jpg" group="cnc-2" title="With Limit Experiment">}}
 
 ## Assemble
 Put hardware parts all together
-{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/9_prototype.JPG" group="cnc-3"  title="Full assembled">}}
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/7_limit_switch.JPG" group="cnc-3"  title="Back View">}}
-{{< image classes="center fancybox fig-25" src="/post/cnc-clock/images/gallery/6_build_the_cnc_frame.JPG" group="cnc-3"  title="Limit Switch">}}
-{{< image classes="clear center fancybox fig-25" src="/post/cnc-clock/images/gallery/8_cnc_sits_details.JPG" group="cnc-3"  title="Drawing Base">}} 
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/9_prototype.jpg" group="cnc-3"  title="Full assembled">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/7_limit_switch.jpg" group="cnc-3"  title="Back View">}}
+{{< image classes="center fancybox fig-25" src="/post/cnc-clock/images/gallery/6_build_the_cnc_frame.jpg" group="cnc-3"  title="Limit Switch">}}
+{{< image classes="clear center fancybox fig-25" src="/post/cnc-clock/images/gallery/8_cnc_sits_details.jpg" group="cnc-3"  title="Drawing Base">}} 
 
 ## Full Code Experiments
 Control X, Y, Z axis in the same time with LCD control in separate MCU
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/10_simple_test_full.JPG" group="cnc-4"  title="Control X-Y axis First">}}
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/11_more_drawing_test.JPG" group="cnc-4"  title="X-Y Drawing Test">}}
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/12_with_lcd_settings.JPG" group="cnc-4"  title="LCD Test">}}
-{{< image classes="clear center fancybox fig-50" src="/post/cnc-clock/images/gallery/13_finish_in_prototype.JPG" group="cnc-4"  title="Full Function">}} 
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/10_simple_test_full.jpg" group="cnc-4"  title="Control X-Y axis First">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/11_more_drawing_test.jpg" group="cnc-4"  title="X-Y Drawing Test">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/12_with_lcd_settings.jpg" group="cnc-4"  title="LCD Test">}}
+{{< image classes="clear center fancybox fig-50" src="/post/cnc-clock/images/gallery/13_finish_in_prototype.jpg" group="cnc-4"  title="Full Function">}} 
 
 ## Soldering Time
 Breadboard is not stabe, so time to do some dirty job
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/14_soldering_plan.JPG" group="cnc-5" thumbnail-width="75%" thumbnail-height="80%" title="LCD Controller Part Placement Planning">}}
-{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/15_soldered_front_view.JPG" group="cnc-5" title="LCD Controller Pre-assembly">}}
-{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/16_soldered_back_view.JPG" group="cnc-5" title="LCD Controller Soldering">}}
-{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/17_motor_controller_solder_plan.JPG" group="cnc-5" title="Motor Controller Part Placement Planning">}}
-{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/18_main_controller_finish_solder_front_view.JPG"group="cnc-5" title="Motor Controller Board Front View">}}
-{{< image classes="clear center fancybox fig-50" src="/post/cnc-clock/images/gallery/19_main_controller_back_view.JPG" group="cnc-5" title="Motor Controller Board Back View">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/14_soldering_plan.jpg" group="cnc-5" thumbnail-width="75%" thumbnail-height="80%" title="LCD Controller Part Placement Planning">}}
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/15_soldered_front_view.jpg" group="cnc-5" title="LCD Controller Pre-assembly">}}
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/16_soldered_back_view.jpg" group="cnc-5" title="LCD Controller Soldering">}}
+{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/17_motor_controller_solder_plan.jpg" group="cnc-5" title="Motor Controller Part Placement Planning">}}
+{{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/18_main_controller_finish_solder_front_view.jpg"group="cnc-5" title="Motor Controller Board Front View">}}
+{{< image classes="clear center fancybox fig-50" src="/post/cnc-clock/images/gallery/19_main_controller_back_view.jpg" group="cnc-5" title="Motor Controller Board Back View">}}
 
 ## Some System Details
 {{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/20_schematic.png" group="cnc-6" title="Motor Controller Schematic">}}
