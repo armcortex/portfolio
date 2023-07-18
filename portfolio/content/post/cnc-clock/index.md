@@ -79,8 +79,8 @@ Breadboard is not stabe, so time to do some dirty job
 
 ## Some System Details
 {{< image classes="center fancybox fig-50" src="/post/cnc-clock/images/gallery/20_schematic.png" group="cnc-6" title="Motor Controller Schematic">}}
-{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/21_main_structure.JPG" group="cnc-6" title="Motor Controller System Structure">}}
-{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/22_sub_system_structure.JPG" group="cnc-6" thumbnail-width="85%" thumbnail-height="85%" title="LCD Controller System Structure">}}
+{{< image classes="center fancybox fig-33" src="/post/cnc-clock/images/gallery/21_main_structure.jpg" group="cnc-6" title="Motor Controller System Structure">}}
+{{< image classes="clear center fancybox fig-33" src="/post/cnc-clock/images/gallery/22_sub_system_structure.jpg" group="cnc-6" thumbnail-width="85%" thumbnail-height="85%" title="LCD Controller System Structure">}}
 
 
 ## Firmware
