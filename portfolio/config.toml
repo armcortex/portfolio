@@ -118,12 +118,12 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fab fa-lg fa-youtube\" aria-hidden=\"true\"></i>"
   url = "https://www.youtube.com/@armsnuclear/videos"
 
-[[menu.misc]]
-  weight = 1
-  identifier = "rss"
-  name = "RSS"
-  pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
-  url = "/index.xml"
+# [[menu.misc]]
+#   weight = 1
+#   identifier = "rss"
+#   name = "RSS"
+#   pre = "<i class=\"sidebar-button-icon fas fa-lg fa-rss\" aria-hidden=\"true\"></i>"
+#   url = "/index.xml"
 
 # -------------
 # Customization
