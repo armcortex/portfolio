@@ -10,6 +10,7 @@ tags:
 - Embedded C
 - Fusion 360
 - Mechanism Design
+- 3D Printer
 slug: auto-light
 thumbnailImage: post/auto-light/images/auto_light2.jpg
 gallery:
