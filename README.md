@@ -1,4 +1,4 @@
-# Ted's Website (Work in Progress)
+# Ted's Website
 
 Powered by [Hugo](https://gohugo.io/) and [hugo-tranquilpeak-theme](https://github.com/kakawait/hugo-tranquilpeak-theme)
 
