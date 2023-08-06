@@ -1,6 +1,7 @@
 ---
 title: "Ted Who?"
-coverImage: https://www.dropbox.com/s/hdhn4279ysha2dr/bike.jpg?raw=1
+# coverImage: https://www.dropbox.com/s/hdhn4279ysha2dr/bike.jpg?raw=1
+coverImage: about/images/bike.jpg
 coverSize: partial
 showTags: false
 showPagination: false
