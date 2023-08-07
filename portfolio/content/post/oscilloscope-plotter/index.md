@@ -9,8 +9,8 @@ tags:
 - Arduino
 - Electronics
 slug: oscilloscope-plotter
-thumbnailImage: post/oscilloscope-plotter/images/plotter_demo.png
-# coverImage: /images/oscilloscope-plotter/demo.png
+thumbnailImage: post/oscilloscope-plotter/images/plotter_demo.webp
+# coverImage: /images/oscilloscope-plotter/demo.webp
 # coverSize: partial
 ---
 
@@ -34,4 +34,4 @@ Change sentence you want on TEXT1, TEXT2
 
 
 # Schematic
-![schematic](/post/oscilloscope-plotter/images/schematic.jpg)
+![schematic](/post/oscilloscope-plotter/images/schematic.webp)
