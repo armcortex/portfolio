@@ -11,7 +11,7 @@ tags:
 - Python Lib multiprocessing
 - FFmpeg
 slug: story-teller
-thumbnailImage: post/story-teller/images/midjourney_small.jpeg
+thumbnailImage: post/story-teller/images/midjourney_small.webp
 ---
 
 <!-- for peek -->
@@ -20,7 +20,7 @@ Automatic create stories with ChatGPT + Midjourney + FFmpeg
 <!--more-->
 ## Video Demo
 [Github](https://github.com/armcortex/tell_a_story)
-<!-- ![Story](/post/story-teller/images/midjourney.png) -->
+<!-- ![Story](/post/story-teller/images/midjourney.webp) -->
 {{< youtube xowItPDmx4o >}}
 
 
@@ -32,7 +32,7 @@ Automatic create stories with ChatGPT + Midjourney + FFmpeg
 ## Features
 - `check_point.py` will save the process step, if process failed system will restart and `check_point.py` will restore last step and continue
 - `discordbot.py` will report program status
-{{< image classes="clear fancybox fig-75" src="/post/story-teller/images/discord_log.png">}}
+{{< image classes="clear fancybox fig-75" src="/post/story-teller/images/discord_log.webp">}}
 
 
 ## Setup
