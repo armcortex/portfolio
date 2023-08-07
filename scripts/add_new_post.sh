@@ -1,4 +1,9 @@
-new_post="my-post2"
+if [ "$#" -eq 0 ]; then
+    echo "Please give 1 argument for post title"
+    exit 1
+fi
+
+new_post=$1
 docker run -it --rm \
     --name hugo-portfolio-new-post \
     --mount type=bind,source=$(cd ../portfolio && pwd),target=/src \
