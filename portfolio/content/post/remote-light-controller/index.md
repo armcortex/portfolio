@@ -41,6 +41,7 @@ only sweet, uninterrupted laze-fests from here on out. Sounds like a perfect
 balance between the tech-cool and the classic, doesn't it? Talk about living the 
 dream, eh?
 
+{{< image classes="fancybox fig-100" src="/post/remote-light-controller/images/remote-light-all.webp" group="x1" title="Results" >}}
 
 # Demo
 <!-- [Github](addr) -->

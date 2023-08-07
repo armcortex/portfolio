@@ -22,7 +22,7 @@ My development environment
 
 <!--more-->
 # PC Desktop Setup
-{{< image classes="clear fancybox fig-50" src="/post/building-my-ultimate-dream-setup/images/pc_desktop_setup.webp" group="x1">}}
+{{< image classes="clear fancybox fig-100" src="/post/building-my-ultimate-dream-setup/images/pc_desktop_setup.webp" group="x1">}}
 - PC
   - CPU: Intel i9-10920x
   - GPU: RTX3090 24GB, GTX1060 6G

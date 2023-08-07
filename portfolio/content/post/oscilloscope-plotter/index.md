@@ -15,10 +15,10 @@ thumbnailImage: post/oscilloscope-plotter/images/plotter_demo.webp
 ---
 
 <!-- for peek -->
-
 Using Oscilloscope to plot words
 
 <!--more-->
+{{< image classes="fancybox fig-100" src="/post/oscilloscope-plotter/images/plotter_demo.webp" group="x1" title="Results" >}}
 
 # Demo
 [Github](https://github.com/armcortex/Arduino_Scope_XY_Text)
