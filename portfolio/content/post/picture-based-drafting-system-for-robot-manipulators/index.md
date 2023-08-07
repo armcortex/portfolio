@@ -11,7 +11,7 @@ tags:
 - OpenCV
 - B-Spline Algorithm
 slug: picture-based-drafting-system-for-robot-manipulators
-thumbnailImage: post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.jpg
+thumbnailImage: post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.webp
 ---
 
 <!-- for peek -->
@@ -23,8 +23,8 @@ This paper proposes a system for drawing with a six-axis robotic arm, designed u
     <a href='/post/picture-based-drafting-system-for-robot-manipulators/files/20150803_GuanTingLi_paper.pdf'>Paper</a>
 </h4>
 
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_demo.jpg" group="x1" title="Results" >}}
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.jpg" group="x1" title="Drawing System Platform" >}}
+{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_demo.webp" group="x1" title="Results" >}}
+{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.webp" group="x1" title="Drawing System Platform" >}}
 {{< image classes="clear" >}}
 
 <div class="yt-grid-container">
@@ -37,6 +37,6 @@ This paper proposes a system for drawing with a six-axis robotic arm, designed u
 
 
 # System Architecture 
-{{< image classes="fancybox fig-75" src="/post/picture-based-drafting-system-for-robot-manipulators/images/graphviz/system_architecture/drawing_system_architecture.png" >}}
+{{< image classes="fancybox fig-75" src="/post/picture-based-drafting-system-for-robot-manipulators/images/graphviz/system_architecture/drawing_system_architecture.webp" >}}
 {{< image classes="clear" >}}
 
