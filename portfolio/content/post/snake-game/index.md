@@ -9,7 +9,7 @@ tags:
 - GUI
 - Python Lib pygame
 slug: snake-game
-thumbnailImage: post/snake-game/images/snake_game_cover.jpg
+thumbnailImage: post/snake-game/images/snake_game_cover.webp
 ---
 
 <!-- for peek -->
