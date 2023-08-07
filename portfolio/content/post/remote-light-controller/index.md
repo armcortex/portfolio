@@ -13,7 +13,7 @@ tags:
 - SolidWorks
 - 3D Printer
 slug: remote-light-controller
-thumbnailImage: post/remote-light-controller/images/remote-light-all.jpg
+thumbnailImage: post/remote-light-controller/images/remote-light-all.webp
 ---
 
 <!-- for peek -->
