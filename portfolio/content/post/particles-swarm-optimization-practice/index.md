@@ -1,6 +1,6 @@
 ---
 title: Swarming Around with Particle Swarm Optimization (PSO) on MATLAB! 🚀
-date: "2023-08-08"
+date: "2012-10-24"
 categories:
 - Software
 tags:
