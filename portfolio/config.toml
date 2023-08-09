@@ -227,12 +227,6 @@ canonifyurls = true
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example
-  #  <!-- Cloudflare Web Analytics -->
-  [[params.customJS]]
-      src = "https://static.cloudflareinsights.com/beacon.min.js"
-      data-cf-beacon = '{"token": "72622b5aee57421d8726d3423107cead"}'
-      defer = true
-
   [[params.customJS]]
     src = "https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.1.0/languages/apache.min.js"
     integrity = "sha512-gE8KAQyFIzV1C9+GZ8TKJHZS2s+n7EjNtC+IMRn1l5+WYJTHOODUM6JSjZhFhqXmc7bG8Av6XXpckA4tYhflnw=="
