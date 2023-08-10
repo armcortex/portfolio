@@ -12,6 +12,7 @@ tags:
 - FFmpeg
 - ChatGPT
 - Midjourney
+- Prompt Engineering
 slug: story-teller
 thumbnailImage: post/story-teller/images/midjourney_small.webp
 ---
