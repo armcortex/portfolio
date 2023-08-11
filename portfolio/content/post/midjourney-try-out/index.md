@@ -1,6 +1,6 @@
 ---
 title: "🚀 Dive into the Surreal with Midjourney"
-date: "2023-08-11"
+date: "2023-02-25"
 categories:
 - Software
 tags:
