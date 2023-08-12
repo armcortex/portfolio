@@ -94,10 +94,10 @@ Now, imagine timepieces with a steampunk edge and mechanical heart.
 <!-- Others -->
 Next, I dabbled in some experimental visuals. Think alien worlds, extraterrestrial beings, 
 Star Wars vibes, and some magical sorcery.
-{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_planet.webp" group="other" >}}
-{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_alien_1.webp" group="other" >}}
-{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_alien_2.webp" group="other" >}}
-{{< image classes="clear fancybox fig-25" src="/post/midjourney-try-out/images/other_girl_with_fire.webp" group="other" >}}
+{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_planet.webp" group="future" >}}
+{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_alien_1.webp" group="future" >}}
+{{< image classes="fancybox fig-25" src="/post/midjourney-try-out/images/other_alien_2.webp" group="future" >}}
+{{< image classes="clear fancybox fig-25" src="/post/midjourney-try-out/images/other_girl_with_fire.webp" group="future" >}}
 
 
 # Aesthetic Icon
@@ -116,9 +116,9 @@ Maybe add an ancient dragon badge icon to the mix.
 
 <!-- Paintings -->
 And lastly, vivid artistic designs - these color palettes? Literal masterpieces in my eyes.
-{{< image classes="fancybox fig-33" src="/post/midjourney-try-out/images/colorful_1.webp" group="Drawing-1" >}}
-{{< image classes="fancybox fig-33" src="/post/midjourney-try-out/images/colorful_2.webp" group="Drawing-1" >}}
-{{< image classes="clear fancybox fig-33" src="/post/midjourney-try-out/images/colorful_3.webp" group="Drawing-1" >}}
+{{< image classes="fancybox fig-33" src="/post/midjourney-try-out/images/colorful_1.webp" group="icon" >}}
+{{< image classes="fancybox fig-33" src="/post/midjourney-try-out/images/colorful_2.webp" group="icon" >}}
+{{< image classes="clear fancybox fig-33" src="/post/midjourney-try-out/images/colorful_3.webp" group="icon" >}}
 
 
 # Super Realistic Prompt
