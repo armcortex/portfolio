@@ -13,7 +13,7 @@ tags:
 - SolidWorks
 - 3D Printer
 slug: remote-light-controller
-thumbnailImage: post/remote-light-controller/images/remote-light-all.webp
+thumbnailImage: post/remote-light-controller/images/remote_light_all_1.webp
 ---
 
 <!-- for peek -->
@@ -41,7 +41,10 @@ only sweet, uninterrupted laze-fests from here on out. Sounds like a perfect
 balance between the tech-cool and the classic, doesn't it? Talk about living the 
 dream, eh?
 
-{{< image classes="fancybox fig-100" src="/post/remote-light-controller/images/remote-light-all.webp" group="x1" title="Results" >}}
+{{< image classes="fancybox fig-100" src="/post/remote-light-controller/images/remote_light_all_1.webp" group="x1" title="Front View" >}}
+{{< image classes="fancybox fig-50" src="/post/remote-light-controller/images/remote_light_all_2.webp" group="x1" title="Back View" >}}
+{{< image classes="fancybox fig-50" src="/post/remote-light-controller/images/remote_light_solidworks.webp" group="x1" title="Design via SolidWorks" >}}
+
 
 # Demo
 <!-- [Github](addr) -->
