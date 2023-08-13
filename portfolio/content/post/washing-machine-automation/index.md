@@ -106,5 +106,36 @@ just want our mechanical marvel to look good; it's gotta act the part too.
 So, with every screw turn and motor test, we inch closer to a world where your washing machine 
 isn't just a household appliance; it's a testament to human ingenuity and design prowess.
 
+### Washign Machine
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/wash_frame_wo_panel_front_1.webp" group="wash" title="Frame Assembling" >}}
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/wash_frame_w_panel_front_3.webp" group="wash" title="With Control Panel Detail" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/wash_frame_w_panel_front_1.webp" group="wash" title="With Control Panel" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/wash_frame_w_panel_back_1.webp" group="wash" title="Frame Back View" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/wash_frame_w_panel_side_2.webp" group="wash" title="Frame Side View" >}}
+{{< image classes="clear fancybox fig-25" src="/post/washing-machine-automation/images/experiment/wash_frame_w_panel_side_1.webp" group="wash" title="Frame Side View" >}}
+
+
+<!-- {{< image classes="clear fancybox" group="wash" >}} -->
+
+### Drying Machine
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/dry_frame_wo_panel_front_1.webp" group="dry" title="Frame Assembling" >}}
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/dry_frame_w_panel_front_4.webp" group="dry" title="With Control Panel Detail" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/dry_frame_w_panel_front_1.webp" group="dry" title="With Control Panel" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/dry_frame_w_panel_back_1.webp" group="dry" title="Frame Back View" >}}
+{{< image classes="fancybox fig-25" src="/post/washing-machine-automation/images/experiment/frame_detail_1.webp" group="dry" title="Some Details" >}}
+{{< image classes="clear fancybox fig-25" src="/post/washing-machine-automation/images/experiment/frame_detail_2.webp" group="dry" title="Some Details" >}}
+
+### Servo
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/servo_w_electrode_1.webp" group="servo" title="Servo on Frame" >}}
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/servo_w_electrode_2.webp" group="servo" title="Servo with Electrode" >}}
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/servo_detail_1.webp" group="servo" title="Servo with Supported" >}}
+{{< image classes="clear fancybox fig-50" src="/post/washing-machine-automation/images/experiment/servo_detail_2.webp" group="servo" title="Servo Details" >}}
+
+### Others
+{{< image classes="fancybox fig-33" src="/post/washing-machine-automation/images/experiment/experiment_results_2.webp" group="others" title="Work Environment" >}}
+{{< image classes="fancybox fig-50" src="/post/washing-machine-automation/images/experiment/experiment_results_1.webp" group="others" title="More Testing Development " >}}
+{{< image classes="clear fancybox fig-50" src="/post/washing-machine-automation/images/experiment/wash_frame_mass_product_1.webp" group="others" title="Mass Productions" >}}
+
+
 # Reference
 1. Whirlpool Control Panel Image: https://www.amresupply.com/part/15395157
