@@ -63,7 +63,7 @@ bad boys are intentionally there to cut down on the 3D printing material while k
 solid and sturdy. Every bit of detail is a calculated move. Here's a little demo of some components 
 to give you a taste of this design journey. Honestly? Fusion 360's got game, and it's making this 
 project look slicker than I ever imagined
-{{< image classes="clear fancybox fig-100" src="/post/washing-machine-automation/images/fusion360_view.webp" group="model" title="Sketching" >}}
+{{< image classes="clear fancybox fig-100" src="/post/washing-machine-automation/images/fusion360_view.webp" group="model" title="Model Sketching" >}}
 
 # Assembling the Dream Setup
 Ready for the magic reveal? Up next, I’ve got a visual treat for you: a full-blown image featuring 
@@ -76,7 +76,7 @@ to ensure these components played nice. Had to make sure there were no unexpecte
 surprise interference that might throw a wrench in our final assembly. Every module, every screw, 
 every wire - it's all been tested to work harmoniously. It's kind of like ensuring all the 
 instruments in an orchestra are in tune before the big concert. 
-{{< image classes="clear fancybox fig-100" src="/post/washing-machine-automation/images/model_view.webp" group="model" title="Assembling" >}}
+{{< image classes="clear fancybox fig-100" src="/post/washing-machine-automation/images/model_view.webp" group="model" title="Model Component Assembling" >}}
 
 # Unveiling the Masterpieces 
 And now, the moment we've all been waiting for. Feast your eyes on the next two visuals – pristine 
