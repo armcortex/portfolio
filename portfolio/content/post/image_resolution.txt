@@ -1,0 +1,3 @@
+original: 16:9
+horizon: 32:17 
+vertical: 18:33
