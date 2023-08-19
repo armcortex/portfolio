@@ -12,6 +12,24 @@ tags:
 - B-Spline Algorithm
 slug: picture-based-drafting-system-for-robot-manipulators
 thumbnailImage: post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.webp
+gallery:
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150430_first_controller_testing.webp "2015/04/30 First Manipulator Controller Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150508_小叮噹.webp "2015/05/08 First Picture Drawing Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150509_bear.webp "2015/05/09 Rilakkuma"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150509_ghost_in_the_shell.webp "2015/0509 Ghost in the Shell"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150509_shark.webp "2015/05/09 Shark"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150510_mother_day.webp "2015/05/10 Mother's Day"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150521_B_spline.webp "2015/05/21 B-Spine Proof of Concept"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150522_戳點.webp "2015/05/22 With More Drawing Pressure Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150524_B_spline_1.webp "2015/05/24 B-Spine Parameter Tuning - 1"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150524_B_spline_2.webp "2015/05/24 B-Spine Parameter Tuning - 2"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150525_without_canny_pic.webp "2015/05/25 Image Edge Detection Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150526_KUKA_風景.webp "2015/05/26 Scenery Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150529_name.webp "2015/05/29 Say My Name !!!"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150601_校長.webp "2015/06/01 More Scenery Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150613_手稿_結果.webp "2015/06/13 Sketch Testing"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150613_機械揮毫_結果.webp "2015/06/13 Simple Lines Checking"
+- /post/picture-based-drafting-system-for-robot-manipulators/images/collections/20150626_trollface.webp "2015/06/26 Have More Fun, Yooooooo"
 ---
 
 <!-- for peek -->
@@ -24,6 +42,7 @@ robotic Renaissance!
 <!--more-->
 Peek below and you'll see our 6-axis robotic manipulator in action, casually sketching out our fave 
 lil' blue cat - Doraemon. I mean, who knew tech could have such an artsy flair? 
+
 {{< image classes="clear fancybox fig-100" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover2.webp" group="x1" title="Drawing System Platform via Kuka Industrial Robotic Manipulator" >}}
 
 
@@ -77,29 +96,28 @@ effectively dictates the end-point movement of the robotic manipulator, facilita
 of a precise illustration.
 
 {{< image classes="clear fancybox fig-100" src="/post/picture-based-drafting-system-for-robot-manipulators/images/graphviz/system_architecture/drawing_system_architecture.webp" >}}
-<!-- {{< image classes="clear" >}} -->
 
+# System Workflow Visualization
+Below is a comprehensive flowchart that intricately captures our system's rigorous processing 
+sequence. Taking a basic 'Doraemon' sketch as our point of reference, the image first undergoes a 
+grayscale transformation to achieve tonal uniformity. Subsequently, an Adaptive Histogram 
+Equalization is utilized to augment the image's contrast nuances. This is pursued by a filtering 
+process to effectively minimize noise interferences. Thereafter, Adaptive Thresholding segments the 
+salient features, paving the way for contour extraction. This extracted framework then enters our 
+sophisticated path planning, harnessing the prowess of the B-spline algorithm. Ultimately, the 
+Robotic Manipulator executes the drawing, meticulously translating the image processing results 
+onto the physical canvas.
 
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/1_2.png" group="experiment-1" title="Input" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/2.jpeg" group="experiment-1" title="Step 1: Gray Scale" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/3.jpeg" group="experiment-1" title="Step 2: Adaptive Histogram" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/4.jpeg" group="experiment-1" title="Step 3: Filter" >}}
-{{< image classes="clear fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/5_1.jpeg" group="experiment-1" title="Step 4: Adaptive Threshold 1" >}}
-
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/5_2.jpeg" group="experiment-1" title="Step 5: Adaptive Threshold2" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/6_1.jpeg" group="experiment-1" title="Step 6: Contour Extract 1" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/6_2.jpeg" group="experiment-1" title="Step 7: Contour Extract 2" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_1.jpeg" group="experiment-1" title="Step 8: Path Planning w/o B-Spline 1" >}}
-{{< image classes="clear fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_2.jpeg" group="experiment-1" title="Step 9: Path Planning w/o B-Spline 2" >}}
-
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_3.jpeg" group="experiment-1" title="Step 10: Path Planning w/o B-Spline 2" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_4.jpeg" group="experiment-1" title="Step 11: Path Planning w B-Spline 1" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_5.jpeg" group="experiment-1" title="Step 12: Path Planning w B-Spline 2" >}}
-{{< image classes="fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/7_6.jpeg" group="experiment-1" title="Step 13: Path Planning w B-Spline 3" >}}
-{{< image classes="clear fancybox fig-20" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/collections/d/8_2.png" group="experiment-1" title="Result" >}}
-
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/1.webp" group="experiment-1" title="Input" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/2.webp" group="experiment-1" title="Step 1: Gray Scale" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/3.webp" group="experiment-1" title="Step 2: Adaptive Histogram" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/4.webp" group="experiment-1" title="Step 3: Filter" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/5_2.webp" group="experiment-1" title="Step 4: Adaptive Threshold" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/6_2.webp" group="experiment-1" title="Step 5: Contour Extraction" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/7_5.webp" group="experiment-1" title="Step 6: Path Planning w/ B-Spline 3D View" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/7_6.webp" group="experiment-1" title="Step 6: Path Planning w/ B-Spline Zoom in" >}}
+{{< image classes="fancybox fig-33" src="/post/picture-based-drafting-system-for-robot-manipulators/images/collections/doraemon/8.webp" group="experiment-1" title="Result" >}}
 {{< image classes="clear" >}}
-
 
 
 # Demo Insights
@@ -107,42 +125,49 @@ of a precise illustration.
     <a href='/post/picture-based-drafting-system-for-robot-manipulators/files/20150803_GuanTingLi_paper.pdf'>Paper</a>
 </h4>
 
-Presented below is a detailed demonstration categorized into three progressive stages of complexity. Each scenario distinctly showcases the original input image, the meticulously generated 3D movement path post-path-planning, and the final artistry rendered by the robotic manipulator. Starting with fundamental linear patterns in the first, the subsequent layers delve deeper into intricate hand-drawn sketches, culminating in the third, which undertakes the challenge of a detailed landscape photograph. This stratified representation not only highlights the precision of our algorithms but also the versatile capability of our robotic manipulator in handling varying degrees of complexity.
+Presented below is a detailed demonstration categorized into three progressive stages of complexity. 
+Each scenario distinctly showcases the original input image, the meticulously generated 3D movement 
+path post-path-planning, and the final artistry rendered by the robotic manipulator. Starting with 
+fundamental linear patterns in the first, the subsequent layers delve deeper into intricate 
+hand-drawn sketches, culminating in the third, which undertakes the challenge of a detailed 
+landscape photograph. This stratified representation not only highlights the precision of our 
+algorithms but also the versatile capability of our robotic manipulator in handling varying 
+degrees of complexity.
 
 {{< image classes="clear fancybox fig-100" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_demo.webp" group="x1" title="Results" >}}
 
 
-<!-- {{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/20150509_kuka_mother_day.webp" group="x1" title="Mother's Day" >}} -->
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo/doraemon.png" group="x1" title="Mother's Day" >}}
+# Video Archive: Watch the Robotic Manipulator in Action
+Dive deep into our trove of recorded experiments, accessible via a series of YouTube links below. 
+These videos chronicle the robotic manipulator's journey, capturing its evolutions and refinements 
+in real-time. Witness the transformations, the troubleshooting, and the exhilarating moments when 
+theory turns into reality. From initial stumbles to its current fluid motions, you'll gain a 
+comprehensive insight into the entire developmental process. Grab some popcorn, and embark on 
+this visual journey of technological evolution with us!
 
-
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo/d.png" group="x1" title="Ghost in the shell" >}}
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo/name.png" group="x1" title="Ghost in the shell" >}}
-{{< image classes="clear fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo/shark.png" group="x1" title="Ghost in the shell" >}}
-
-<!-- 
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/20150509_ghost_in_the_shell.webp" group="x1" title="Ghost in the shell" >}}
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover.webp" group="x1" title="Soccer Goal" >}}
-{{< image classes="fancybox fig-50" src="/post/picture-based-drafting-system-for-robot-manipulators/images/drawing_cover.webp" group="x1" title="Soccer Goal" >}}
- -->
-
-<!-- {{< image classes="clear" >}} -->
-
-<!-- post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo -->
-<!-- /Users/mcs51/Library/CloudStorage/Dropbox/Ununtu_I9/code/others/20221028_portfolio/portfolio-tranquilpeak-20230306/portfolio/content/post/picture-based-drafting-system-for-robot-manipulators/images/raw/new/edit_photo -->
-
-# Experiment Videos
 <div class="yt-grid-container">
-    <div>{{< youtube soZrOPOBoho >}} 2015/07/25 Simple Image Drawing</div>
-    <div>{{< youtube ZAvJxzBUlSo >}} 2015/06/03 Complex Scenery Drawing</div>
-    <div>{{< youtube O0VAcU5T7bc >}} 2015/06/01 Complex Scenery Drawing 90sec speedup</div>
-    <div>{{< youtube yRbb-1BH_3A >}} 2015/05/22 With B-spline and Correct Motion Control</div>
-    <div>{{< youtube ghKzJ27jmhE >}} 2015/05/10 Without Path Planning</div>
+    <div>{{< youtube YjKc1ntFEIM >}} 2015/04/29 First Try on Motion Control</div>
     <div>{{< youtube mqg1ZCPStL4 >}} 2015/05/09 System Operating Procedures</div>
     <div>{{< youtube ONyC8J7kdAo >}} 2015/05/09 Image Edge Detection First Try</div>
-    <div>{{< youtube YjKc1ntFEIM >}} 2015/04/29 First Try on Motion Control</div>
-    
-
+    <div>{{< youtube ghKzJ27jmhE >}} 2015/05/10 Without Path Planning</div>
+    <div>{{< youtube yRbb-1BH_3A >}} 2015/05/22 With B-spline and Correct Motion Control</div>
+    <div>{{< youtube O0VAcU5T7bc >}} 2015/06/01 Complex Scenery Drawing 90sec speedup</div>
+    <div>{{< youtube ZAvJxzBUlSo >}} 2015/06/03 Complex Scenery Drawing</div>
+    <div>{{< youtube soZrOPOBoho >}} 2015/07/25 Simple Image Drawing</div>
 </div>
 
+
+# Gallery: A Historical Glimpse into our Technical Evolution
+As we guide you through our visual journey, you'll witness a chronological tapestry of our 
+experiments, each timestamped for reference. It commenced humbly with basic robotic manipulator 
+controls drawing a simple spiral. The evolution is palpable: from elementary line art like 
+'Doraemon', to more intricate sketches like a bear and a shark. An ode to our cultural 
+appreciation, there’s even a rendition of the iconic logo from the beloved Japanese anime, 
+'Ghost in the Shell'. At this juncture, it’s evident the jagged edges and less fluid lines hinting 
+at the growing pains of our system.
+
+Yet, as time marched on, our relentless endeavors to refine both the manipulator's control and 
+image processing bore fruit. Gradually, from rendering a seamless 'Doraemon' to masterfully 
+capturing intricate landscape sceneries, our system's prowess stands testament to our progress 
+and dedication.
 
