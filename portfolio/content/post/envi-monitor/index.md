@@ -58,16 +58,16 @@ into the network's health. Sweet, right?
 
 
 
-# Demo
+# Give it a try ?
 [Github](https://github.com/armcortex/env_monitor)
 
 
-# Prerequisites
+## Prerequisites
 * [pipenv](https://github.com/pypa/pipenv)
 * [InfluxDB](https://docs.influxdata.com/influxdb/v1.7/introduction/installation/)
 * [Grafana](https://grafana.com/docs/grafana/latest/installation/debian/)
 
-# Circuit
+## Circuit
 * Raspberry Pi *1 (Run web server and database service)
 * NodeMCU *1
 * SHT20 *1
@@ -76,11 +76,11 @@ into the network's health. Sweet, right?
 * Couple wires
 {{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/circuit.webp" group="x2" title="Circuit" >}}
 
-# Install
+## Install
 Install tools for NodeMCU from Pipfile:
 - `pipenv install`
 
-# How to start
+## How to start
 Make sure InfluxDB and Grafana service is already running. and
 there is a database in InfluxDB. Edit `/env_monitor/config.json`.
 `STA_SSID`, `STA_PASSWORD` is for which wifi device NodeMCU connect to.
@@ -97,7 +97,7 @@ there is a database in InfluxDB. Edit `/env_monitor/config.json`.
 2. Cheers \m/
  
 
-# Troubleshooting
+## Troubleshooting
 1. If InfluxDB and Grafana set on different server
     - Set admin and password: `CREATE USER admin WITH PASSWORD 'password'`
 
