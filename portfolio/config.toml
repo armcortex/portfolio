@@ -48,7 +48,7 @@ canonifyurls = true
 # ------
 [author]
   name = "Guan-Ting Li (Ted Li)"
-  bio = "Ted Li is a software engineer who possesses exceptional skills in the fields of robotics, machine learning, and embedded systems. He served as a senior firmware and software engineer at Artesyn Embedded Technologies, where he successfully developed an automatic parameter tuning system and designed a comprehensive safety platform, as well as a script-based automatic environmental testing system, and facilitated multiple FreeRTOS RTOS training courses while supporting various instruments' automated testing. <br><br> Moreover, he acquired a mastery of convolutional neural network-related research in Japan and received his master's and bachelor's degrees from Tamkang University and Feng Chia University, respectively."
+  bio = "Ted, a bona fide robotics enthusiast and radiating those tech-savvy vibes, seamlessly maneuvers from software, firmware, to intricate circuit designs, all the way to mechanical schematics. Driven by a zest to streamline life, supercharge personal capabilities, and ramp up efficiencies, he's always on a quest. Forever diving into the latest tech waves, he spots opportunities and imagines endless possibilities."
   job = "Sensior Software/Firmware Engineer"
   location = "Taiwan"
   email = "armcortexfpga@gmail.com"
