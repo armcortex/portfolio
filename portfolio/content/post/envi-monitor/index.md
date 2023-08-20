@@ -1,5 +1,5 @@
 ---
-title: "Environment Monitor"
+title: "The IoT Climate Hub: Keeping It Cool with Real-time Humidity and Temperature Monitoring"
 date: "2020-03-05"
 categories:
 - Firmware
@@ -17,25 +17,47 @@ tags:
 - SQL
 - IOT
 - Raspberry Pi
+- Network Settings
 slug: envi-monitor
 thumbnailImage: post/envi-monitor/images/dashboard.webp
 ---
 
 <!-- for peek -->
-Web-based environment monitor.
-
+Ah, the buzzing world of IoT! Seems like wherever you turn, there's chatter about it – especially 
+the buzz around affordable boards like the ESP32 and NodeMCU, equipped with built-in WiFi and 
+Bluetooth. These tech gems are seriously bringing IoT within everyone's grasp. Stumbled upon an 
+irresistible deal on the SHT20 temperature and humidity sensor recently – less than a buck a piece! 
+Naturally, I snagged a handful for every nook and cranny of my pad. Sorry wallet, but these babies 
+are essential.
 
 <!--more-->
+{{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/dashboard.webp" group="x1" title="Demo" >}}
+
+Living in a place where the humidity levels play tag, and with a room housing sensitive tech gear 
+(think gaming PC, oscilloscope, signal generators, power supplies, and a 3D printer), the paranoia 
+is real. Even with a dehumidifier working overtime, an engineer like me craves hard numbers. Thus, 
+was born my ambient monitoring system using NodeMCU + SHT20 as Data Acquisition Units (DAQ). Threw 
+in a potentiometer to conveniently assign Device IDs – same code, just a twist to differentiate.
+
+{{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/home_usage.webp" group="x1" title="Home Usage" >}}
+
+On the data end? Two first-gen Raspberry Pis got enlisted. One hosts the InfluxDB (yeah, that's a 
+Time-Series Database for the uninitiated) while the other powers the Grafana WebUI dashboard. The 
+setup: each DAQ sends its readings over a localized WiFi network to the InfluxDB. Grafana dips in 
+periodically to visualize these readings. Endgame? A laptop, a connection to the WiFi AP, and 
+voila – instant updates on climate stats from the living room to the balcony.
+
+P.S.: Threw in a watchdog for system stability. In case the DAQ crashes due to WiFi congestion, 
+it'll reboot automatically. Data regarding these reboots is also charted, offering a sneak peek 
+into the network's health. Sweet, right?
+
+
+
+
+
 
 # Demo
 [Github](https://github.com/armcortex/env_monitor)
-
-Web UI
-![Demo](/post/envi-monitor/images/dashboard.webp)
-
-Home Usage
-{{< image classes="clear fancybox fig-50" src="/post/envi-monitor/images/home_usage.webp">}}
-
 
 
 # Prerequisites
