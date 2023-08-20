@@ -47,6 +47,8 @@ setup: each DAQ sends its readings over a localized WiFi network to the InfluxDB
 periodically to visualize these readings. Endgame? A laptop, a connection to the WiFi AP, and 
 voila – instant updates on climate stats from the living room to the balcony.
 
+{{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/environment_monitor_architecture.webp" group="x1" title="Architecture" >}}
+
 P.S.: Threw in a watchdog for system stability. In case the DAQ crashes due to WiFi congestion, 
 it'll reboot automatically. Data regarding these reboots is also charted, offering a sneak peek 
 into the network's health. Sweet, right?
@@ -72,7 +74,7 @@ into the network's health. Sweet, right?
 * Resistor 330Ω *2
 * LED *1
 * Couple wires
-![Circuit](/post/envi-monitor/images/circuit.webp)
+{{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/circuit.webp" group="x2" title="Circuit" >}}
 
 # Install
 Install tools for NodeMCU from Pipfile:
@@ -88,11 +90,11 @@ there is a database in InfluxDB. Edit `/env_monitor/config.json`.
 2. Upload code to NodeMCU: `./run_all.sh`.
 3. Connect to NodeMCU through USB for debug: `./connect_device.sh`.
     If everything goes well, you will see some information like below.
-    ![connect_info](/post/envi-monitor/images/connect_info.webp)
+{{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/connect_info.webp" group="x2" title="Console" >}}
 
-4. Open Grafana webpage and import `/grafana/Env_Monitor.json`. 
+1. Open Grafana webpage and import `/grafana/Env_Monitor.json`. 
     Or you can design your own dashboard.
-5. Cheers \m/
+2. Cheers \m/
  
 
 # Troubleshooting

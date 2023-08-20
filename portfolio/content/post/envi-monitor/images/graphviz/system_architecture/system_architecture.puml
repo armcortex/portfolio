@@ -9,57 +9,37 @@ skinparam {
     wrapWidth 250
 }
 
-' component "DAQ Module 1" as dm1
-' component "InfluxDB Database" as id
+package "WIFI AP (Lan)" {
+    component "DAQ \nModule 1" as dm1
+    component "DAQ \nModule 2" as dm2
+    component "DAQ \nModule 3" as dm3
+    component "DAQ \nModule 4" as dm4
+    component "DAQ \nModule 5" as dm5
 
-component "DAQ \nModule 1" as dm1
-component "DAQ \nModule 2" as dm2
-component "DAQ \nModule 3" as dm3
-component "DAQ \nModule 4" as dm4
-component "DAQ \nModule 5" as dm5
+    package "Raspberry Pi A-1" as pi1 {
+        component "InfluxDB Database" as id
+    }
 
-component "WIFI AP" as wa
+    package "Raspberry Pi A-2" as pi2 {
+        component "Grafana WebUI \nDashboard Server" as gw
+    }
 
-package "Raspberry Pi A-1" as pi1 {
-    component "InfluxDB Database" as id
+    component "PC" as pc
+    component "Laptop" as l
+
+    ' DAQ
+    dm1 -down-> id
+    dm2 -down-> id
+    dm3 -down-> id
+    dm4 -down-> id
+    dm5 -down-> id
+
+    ' Server
+    id -right-> gw: Query
+
+    ' Display
+    gw -down-> pc
+    gw -down-> l
 }
-
-package "Raspberry Pi A-2" as pi2 {
-    component "Grafana WebUI \nDashboard Server" as gw
-}
-
-component "PC" as pc
-component "Laptop" as l
-
-' DAQ
-dm1 <-down-> wa
-dm2 <-down-> wa
-dm3 <-down-> wa
-dm4 <-down-> wa
-dm5 <-down-> wa
-
-' Server
-wa -right-> id
-wa <-right-> gw
-id .down.> gw: Query
-
-' Display
-wa -down-> pc
-wa -down-> l 
-
-gw .right-> pc: Query
-gw .right-> l: Query
-
-@enduml
-
-@startuml
-
-component "Component A" as A
-component "Component B" as B
-component "Hidden Component" as HC #FFFFFF
-
-A --> B
-A -[hidden]-> HC
-B -[hidden]-> HC
 
 @enduml
