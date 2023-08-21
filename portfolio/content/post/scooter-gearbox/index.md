@@ -24,7 +24,7 @@ that my ride was just a humble 100cc scooter, I had to play favorites with the p
 While some components were just a Google search away, my tech-savvy vibes were totally leaning 
 towards the core gears. So, I snagged the gearbox for a deep dive.
 
-Merely gazing at those gears wasn't enough. The real game? Reverse engineering. With Solidworks 3D 
+Merely gazing at those gears wasn't enough. The real game? Reverse engineering. With SolidWorks 3D 
 at my disposal, I embarked on a meticulous journey, measuring every nook and cranny. My daily 
 ritual? Slipping on disposable gloves, handling the greasy gearbox, and getting down with calipers 
 to size up every detail. Fast forward, and voila! Feast your eyes on my crafted masterpiece.
