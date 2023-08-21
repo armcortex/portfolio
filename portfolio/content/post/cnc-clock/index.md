@@ -1,5 +1,5 @@
 ---
-title: "CNC Clock"
+title: "Crafting Time: My Tokyo Adventure with Salvaged Tech"
 date: "2014-12-20"
 categories:
 - Firmware
@@ -16,16 +16,32 @@ thumbnailImage: post/cnc-clock/images/cnc_clock_front_small.webp
 ---
 
 <!-- for peek -->
-Build a CNC clock from 3C recycling center
+"Tony Stark was able to build this in a cave! With a box of scraps!" - That iconic line from Iron 
+Man had me shook as a kid. Sure, creating something fancy with top-notch components is cool, but 
+crafting something legit with random pieces? Now that’s where the real skill shines.
 
 <!--more-->
-# Demo
-[Github](https://github.com/armcortex/CNC_Clock)
 {{< image classes="fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_front.webp" group="cnc-0" title="Font View">}}
 {{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_back.webp" group="cnc-0" title="Back View">}}
 
-{{< youtube iBKizaBvV7M >}}
+During my exchange year in Tokyo at 'The University of Electro-Communications (UEC)', I stumbled 
+upon this goldmine – a 3C recycling hub on campus. You name it, from computers, oscilloscopes, to 
+printers, they had it. Many were ditched just for being vintage, yet they were still in prime 
+working condition. That’s when it hit me: why not channel my inner Stark and craft a toy using 
+these salvaged parts?
 
+So, I scavenged heaps of CD-ROMs, Floppies, all to harness their stepper motors. My vision? A 
+Computer Numerical Control (CNC) machine that scribes time – imagine a clock with a rugged, 
+industrial vibe. Total game changer. During my time in Tokyo, I was armed with just a laptop, 
+missing out on all the essential tools like an oscilloscope for firmware development. All I 
+managed to borrow from my lab mates were a multimeter, soldering iron, and a drill. Anything I 
+lacked tool-wise, I compensated with sheer grit, innovation, and some mad development skills. 
+Let’s just say, my Tokyo adventure turned out to be a masterclass in making do with what you've got.
+
+
+# Demo
+[Github](https://github.com/armcortex/CNC_Clock)
+{{< youtube iBKizaBvV7M >}}
 
 # Materials
 - CD-ROM *2
@@ -35,11 +51,6 @@ Build a CNC clock from 3C recycling center
 - ATMEGA328P *1
 - SN754410 *3
 - Switches from CD-ROM *5
-
-## Preface
-Because during this time, I'm got an exchange opportunity to Japan for one year, so I got no electronic equipment nearby
-expecially **NO Oscilloscope !!!** to check waveform, I can only borrow one multimeter and soldering iron that's it, 
-so it take lots of time to do experiments and make simple things done.
 
 ## Disassemble 
 Just get the important parts and make some fun with it.
@@ -111,5 +122,7 @@ status using a mask. For the Z-axis, as it has only one limit switch, the distan
 Single-phase excitation for a stepper motor.
 <script src="https://gist.github.com/armcortex/3c700212d99f27954400.js?file=onephase.cpp"></script>
 
-So that's it. This is how to build a CNC Clock. \m/
+And just like that, amidst the neon lights and bustling streets of Tokyo, I discovered that real 
+innovation doesn't always require the newest tech; sometimes, it's all about the art of the 
+hustle, the spirit of resourcefulness, and a dash of Stark-inspired audacity. Keep it crafty, folks.
 
