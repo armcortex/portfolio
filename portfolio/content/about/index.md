@@ -146,21 +146,21 @@ comments: false
 **The University of Electro-Communications, Tokyo, Japan** - 
 <small class='edu-dates'>Apr 2014 - Mar 2015</small> \
 <small class='edu-level'>The Japanese University Studies in Science & Technology (Exchange Study)</small>
-- Research Project: Convolutional Neural Network based on Embedded System
-- Focus: Machine Learning, Classification, Image Processing, Embedded System
+- Research Project: Convolutional Neural Network based on Embedded System \
+**Focus**: Machine Learning, Classification, Image Processing, Embedded System
 
 
 **Tamkang University, New Taipei City, Taiwan** - 
 <small class='dates'>Sep 2012 - Jun 2015</small> \
 <small class='edu-level'>M.S. Robotics Engineering</small>
-- Thesis: Picture-Based Drafting System for Robot Manipulators
-- Focus: Robotics, Manipulator Motion Control, Path Planning, Image Processing
+- Thesis: Picture-Based Drafting System for Robot Manipulators \
+**Focus**: Robotics, Manipulator Motion Control, Path Planning, Image Processing
 
 **Feng Chia University, Taichung, Taiwan** - 
 <small class='dates'>Aug 2008 - Jun 2012</small> \
 <small class='edu-level'>B.S. Automatic Control Engineering</small>
-- Undergraduate Project: The Heating Constant Temperature Control System Design for New Strapping Machine
-- Focus: Linear Control System, System Identification, Embedded System, Circuit Design
+- Undergraduate Project: The Heating Constant Temperature Control System Design for New Strapping Machine \
+**Focus**: Linear Control System, System Identification, Embedded System, Circuit Design
 
 ## Hobbies
 - [Super Bike](/hobby/superbike)
