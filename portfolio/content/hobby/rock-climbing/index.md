@@ -11,6 +11,10 @@ slug: rock-climbing
 <h4 class='text-center'> My Rock Climbing archive </h4>
 
 <div class="yt-grid-container">
+    <div>{{< youtube IG4buRTJqoE >}} 2023/09/25</div>
+    <div>{{< youtube DlDXMpOjEMU >}} 2023/06/03</div>
+    <div>{{< youtube KQTkzi2uB7c >}} 2023/06/03</div>
+    <div>{{< youtube pu7C5WGIWX0 >}} 2023/06/03</div>
     <div>{{< youtube M6b9K_-meSI >}} 2021/10/19</div>
     <div>{{< youtube LXoM43_zKSI >}} 2020/10/12</div>
     <div>{{< youtube zqYy0PxS130 >}} 2020/10/06</div>
