@@ -13,12 +13,17 @@ thumbnailImage: post/prompt-injection/images/demo.webp
 ---
 
 <!-- for peek -->
+In the blog, I delve into the art of hacking systems using prompt engineering. 
+It's about manipulating AI responses through clever prompts, demonstrating how prompt injection can 
+be both a creative tool and a security risk. The blog uses an interactive game to highlight the 
+vulnerabilities in AI systems and the importance of understanding and preventing such hacking techniques.
+
+<!--more-->
 So, last November when ChatGPT rolled out, it was like an instant crush, ya know? The moment I 
 started using it, I was like, "Whoa, this feels like Googling, but with style." Instead of scrolling 
 through StackOverflow every time I forget some code syntax, ChatGPT's got my back. It's like my 
 personal coding buddy.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/prompt-injection/images/demo.webp" group="x1" title="My Prompt Injection Journey" >}}
 
 <!-- LLM Examples -->
