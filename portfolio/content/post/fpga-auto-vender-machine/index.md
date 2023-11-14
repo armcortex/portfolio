@@ -14,9 +14,13 @@ thumbnailImage: post/fpga-auto-vender-machine/images/auto_vender_machine.webp
 ---
 
 <!-- for peek -->
-What's up folks? So, I embarked on this uber-cool project where I designed an Auto Vender Machine on the Altera DE0 FPGA board. Sounds fancy, right? And guess what? I threw in some extra tech magic using SoPC and the Nios II soft-core CPU for some added oomph! Quick design concepts with firmware and HDL? You bet that's a big part of my PoC.
+I crafted an automated vending machine using an Altera DE0 FPGA board, complete with SoPC and 
+Nios II CPU magic. It's like a mini convenience store with simple controls and a retro vibe, 
+dispensing drinks with a touch of tech brilliance
 
 <!--more-->
+What's up folks? So, I embarked on this uber-cool project where I designed an Auto Vender Machine on the Altera DE0 FPGA board. Sounds fancy, right? And guess what? I threw in some extra tech magic using SoPC and the Nios II soft-core CPU for some added oomph! Quick design concepts with firmware and HDL? You bet that's a big part of my PoC.
+
 {{< image classes="fancybox fig-100" src="/post/fpga-auto-vender-machine/images/auto_vender_machine.webp" group="x1" title="Results" >}}
 
 Now, let's talk about the main star of the show – the vending machine system. It’s like a mini convenience store on an LCD! We've got four delish items up for grabs:
