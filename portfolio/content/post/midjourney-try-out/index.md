@@ -11,6 +11,11 @@ thumbnailImage: post/midjourney-try-out/images/robot_list_2.webp
 ---
 
 <!-- for peek -->
+I explore Midjourney, an AI that challenges the idea that AI can't be creative. I experiment with 
+making unique, quirky robot designs, demonstrating Midjourney's surprising ability to blend 
+technology and artistic imagination in creating diverse, surreal robot mash-ups. 
+
+<!--more-->
 Man, remember a few years back when we thought, “AI can't possibly mimic human creativity”? 
 Well, Midjourney just proved us all wrong. This tech’s output quality is so crispy that I couldn’t 
 help but dive in and play around!
@@ -19,7 +24,6 @@ Starting off, I've got a soft spot for robots. So, naturally, I kicked things of
 robot cuteness. Mix in some flavor like "zombie," "Venom," and "Crazy", and bam! You get these 
 zany robot mash-ups:
 
-<!--more-->
 <!-- Cover Robot -->
 {{< image classes="clear fancybox fig-100" src="/post/midjourney-try-out/images/robot_list_2.webp" group="robot" title="Different Style of Cute Robot" >}}
 
