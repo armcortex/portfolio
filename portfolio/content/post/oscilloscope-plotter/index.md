@@ -13,12 +13,17 @@ thumbnailImage: post/oscilloscope-plotter/images/plotter_demo.webp
 ---
 
 <!-- for peek -->
+I describe using a digital oscilloscope and a custom C program to creatively display a 
+"Happy Birthday" message. This unique project combined engineering skills with personalization, 
+transforming a technical tool into a special birthday surprise. It's a fun blend of technology and 
+celebration, showcasing an inventive use of everyday engineering equipment for a heartfelt gesture​
+
+<!--more-->
 So, the other day, my buddy A from our uni crew popped up with a request: it was his girlfriend's 
 birthday, and he hoped we could film short videos to celebrate. I mean, we're talking about a bond 
 that spans decades here; of course, we'd come through. But here's the catch: simply mouthing a 
 "Happy Birthday" on video? Way too mainstream for my mischief-loving self.
 
-<!--more-->
 {{< image classes="fancybox fig-100" src="/post/oscilloscope-plotter/images/plotter_demo.webp" group="x1" title="Results" >}}
 
 Being a software/firmware engineer, it's kinda standard to have a digital oscilloscope lying around. 
