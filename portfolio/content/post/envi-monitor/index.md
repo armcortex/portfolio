@@ -23,6 +23,11 @@ thumbnailImage: post/envi-monitor/images/dashboard.webp
 ---
 
 <!-- for peek -->
+I talk about creating a handy home IoT system for monitoring temperature and humidity. Using ESP32 
+and NodeMCU with sensors, it feeds data to a Raspberry Pi for real-time climate stats. Simple, 
+smart, and super useful for keeping my space just right.
+
+<!--more-->
 Ah, the buzzing world of IoT! Seems like wherever you turn, there's chatter about it – especially 
 the buzz around affordable boards like the ESP32 and NodeMCU, equipped with built-in WiFi and 
 Bluetooth. These tech gems are seriously bringing IoT within everyone's grasp. Stumbled upon an 
@@ -30,7 +35,6 @@ irresistible deal on the SHT20 temperature and humidity sensor recently – less
 Naturally, I snagged a handful for every nook and cranny of my pad. Sorry wallet, but these babies 
 are essential.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/envi-monitor/images/dashboard.webp" group="x1" title="Demo" >}}
 
 Living in a place where the humidity levels play tag, and with a room housing sensitive tech gear 
