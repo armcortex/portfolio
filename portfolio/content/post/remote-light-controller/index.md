@@ -17,6 +17,11 @@ thumbnailImage: post/remote-light-controller/images/remote_light_all_1.webp
 ---
 
 <!-- for peek -->
+I hit on a lazy day solution: a Bluetooth remote light switch controller. No rewiring needed, 
+it lets me turn off the lights from my bed via Arduino and servo magic. It's classic switch meets 
+tech convenience, making chill days even chiller.
+
+<!--more-->
 Kick back and picture this. There I am, chilling on my bed, phone in hand, 
 fully committed to a top-tier lazy afternoon. Then, just when I'm starting to 
 nod off into dreamland, the real world buzzkills me. It's the light switch. 
@@ -26,7 +31,6 @@ And you know what? The house isn't even mine. It's the landlord's. So,
 no chance of going full-throttle DIY electrician and rewiring the place 
 to my convenience.
 
-<!--more-->
 So, here's where I have my eureka moment. I devise this nifty little contraption 
 – a Bluetooth remote controller. The genius part is, it's designed not to mess 
 with the ease of the good old manual operation. This way, you can still walk up 
