@@ -11,9 +11,13 @@ thumbnailImage: post/particles-swarm-optimization-practice/images/pso_result.web
 ---
 
 <!-- for peek -->
-Hey, fellow code enthusiasts! You know that feeling when you stumble upon a super cool algorithm and you're like, "I've GOT to try this out"? Well, that was me with the Particle Swarm Optimization (PSO) algorithm.
+I dive into Particle Swarm Optimization (PSO) using MATLAB. With 1000 particles, I tackled the 
+Himmelblau Function, going full detective to understand PSO from its original research. It was a 
+game-changer in algorithm exploration
 
 <!--more-->
+Hey, fellow code enthusiasts! You know that feeling when you stumble upon a super cool algorithm and you're like, "I've GOT to try this out"? Well, that was me with the Particle Swarm Optimization (PSO) algorithm.
+
 {{< image classes="clear fancybox fig-100" src="/post/particles-swarm-optimization-practice/images/pso_result.webp" group="x1" title="Results" >}}
 
 The mission? Using MATLAB magic to unleash 1000 particles (yes, a grand thousand!) to dive deep into the valleys and peaks of the Himmelblau Function. I mean, who wouldn't want to hunt for that elusive lowest point on such a mesmerizing mathematical landscape?
