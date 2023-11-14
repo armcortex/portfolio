@@ -33,13 +33,16 @@ gallery:
 ---
 
 <!-- for peek -->
+I explore merging art and robotics, creating a system that guides a robotic arm to paint like the 
+masters. It's about turning sketches into robotic motion, making art with a tech twist​.
+
+<!--more-->
 Ever imagined a world where robots wield paintbrushes with the grace of Da Vinci and the passion of 
 Van Gogh? Where metal meets canvas and technology romances art? Welcome aboard our imagination train, 
 as we unravel our latest masterpiece: a fusion of artistry and machinery. Dive deep into this 
 innovative realm where the lines between man-made and machine-made blur, introducing a new age of 
 robotic Renaissance!
 
-<!--more-->
 Peek below and you'll see our 6-axis robotic manipulator in action, casually sketching out our fave 
 lil' blue cat - Doraemon. I mean, who knew tech could have such an artsy flair? 
 
