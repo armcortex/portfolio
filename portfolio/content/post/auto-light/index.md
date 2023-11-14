@@ -21,15 +21,18 @@ gallery:
 - /post/auto-light/images/auto_light2.webp "Actuator Details"
 - /post/auto-light/images/auto_light_cad.webp "Fusion360 CAD View""
 ---
-
 <!-- for peek -->
+I describe creating an automated desk light using a servo motor and ultrasonic sensor. I designed 
+a simple system to turn the light on when I'm at my desk and off when I'm not, using an Arduino 
+Nano for control. It's a cool, DIY approach to everyday convenience and energy saving
+
+<!--more-->
 Every single time at the office, whether it's dashing off to a project meeting, making a quick 
 pitstop at the pantry, or even just a bathroom break, I find myself in this little dance with my 
 desk lamp. Off to save electricity, and on again when I'm back – all in the spirit of doing a solid 
 for those polar bears. As an engineer, isn't our superhero skill making life's mundane bits more 
 efficient? We ought to focus our energies on real problems.
 
-<!--more-->
 {{< image classes="fancybox fig-50" src="/post/auto-light/images/auto_light2.webp" group="x1" title="Demo">}}
 {{< image classes="clear fancybox fig-50" src="/post/auto-light/images/auto_light_cad.webp" group="x1" title="Fusion360 CAD View">}}
 
