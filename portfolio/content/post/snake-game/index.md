@@ -13,12 +13,16 @@ thumbnailImage: post/snake-game/images/snake_game_cover.webp
 ---
 
 <!-- for peek -->
+I share coding the classic 'Snake' game in Python, inspired by old Nokia 3310 memories. It's a 
+fun dive into game development, featuring a growing snake, scores, and varying difficulties, 
+combining nostalgic gameplay with a new programming challenge. 
+
+<!--more-->
 Man, one day, amidst a swirl of boredom, a lightbulb moment hit me – "Why not code a little game 
 using Python?" 🎮 I've never ventured into game development before, so this seemed like a sure-fire 
 recipe for fun. And speaking of Python, what better game to make than 'Snake'? I mean, c'mon – 
 Python... Snake... Get it? 😂
 
-<!--more-->
 Flashback to my Nokia 3310 days – the device that introduced me to this classic game. Ah, sweet 
 nostalgia. That lil' pixelated snake has sure kept me entertained for hours, and believe it or 
 not, that was over two decades ago. Time flies, huh?
