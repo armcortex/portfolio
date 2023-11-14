@@ -18,13 +18,16 @@ thumbnailImage: post/manipulator-drawing-task-competition/images/cover.webp
 ---
 
 <!-- for peek -->
+I dive into the HIWIN Manipulator Competition, where our robot's drawing skills clinched the 
+championship. It's about fine-tuning robotic precision for art, mixing tech and creativity.
+
+<!--more-->
 So here I am, rolling up to the sixth edition of the HIWIN Manipulator Competition this year. 
 And let me tell you, it's not just any regular showdown; this is THE premier robot arm face-off in 
 Taiwan. We've got the big dogs of every major robot lab showing up. The line-up of challenges? 
 Absolute bonkers: from card-stacking antics to robots trying their hand (pun intended) at sketching, 
 to a wild robot version of ping pong.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/manipulator-drawing-task-competition/images/cover.webp" group="x1" title="Drawing Task" >}}
 
 Under my leadership in the drawing challenge segment, what tech marvel are we tackling? That's right, 
