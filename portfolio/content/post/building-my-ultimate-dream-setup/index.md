@@ -16,15 +16,18 @@ gallery:
 - /post/building-my-ultimate-dream-setup/images/drilling_machine.webp"
 - /post/building-my-ultimate-dream-setup/images/heat_gun.webp"
 ---
-
 <!-- for peek -->
+I share building my dream tech setup, blending software and hardware. It features a high-end 
+gaming rig, firmware tools, and a mechanical crafting station with a 3D printer. It's my ultimate 
+space for tech projects and innovation
+
+<!--more-->
 Welcome to my den, 'Crafting the Ultimate Tech Sanctum', where tech dreams come alive. As a 
 Software/Firmware Engineer and a robotics buff, my space mirrors my passions. At its core is the 
 beastly gaming rig, powered by Intel i9-10920x, paired with a 2 pair 4-channel 128GB and an RTX3090 
 24GB. It's the ultimate workhorse for tasks like deep learning with reinforcement learning projects, 
 boasting powerful GPU performance and ample VRAM for those complex models.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/building-my-ultimate-dream-setup/images/pc_desktop_setup.webp" group="x1">}}
 
 But hey, software's just half the story. Enter the world of firmware. Armed with a Keysight 70Mhz 
