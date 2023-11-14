@@ -13,12 +13,16 @@ thumbnailImage: post/washing-machine-automation/images/DryMachine_exploded.webp
 ---
 
 <!-- for peek -->
+I outline automating my washing machine using 3D-printed parts and servo motors, cleverly 
+avoiding any tweaks to the original system. It's a tech-savvy, non-invasive upgrade for 
+hassle-free laundry days.
+
+<!--more-->
 So, out of the blue, a buddy of mine approached me with a cool project. The mission? Retrofit an 
 everyday washing machine to be automated but, get this, without hacking into its original system or 
 using another MCU in place of the original control panel. Sounds challenging, right? Instead, 
 we had to get crafty and simulate human operation using servo motors.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/washing-machine-automation/images/DryMachine_exploded.webp" group="model" title="Model Explosion via Fusion 360" >}}
 
 The idea was to attach a 3D-printed framework right onto the washer’s control panel. The challenge? 
