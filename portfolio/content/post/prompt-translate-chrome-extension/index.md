@@ -23,12 +23,16 @@ gallery:
 ---
 
 <!-- for peek -->
+I dive into how I built a cool Chrome extension with ChatGPT. It's all about translating text 
+on-the-fly. Highlight any text, and bam, it translates into your chosen language. Crafted using 
+Docker and OpenAI's API, it's a handy tool for breaking down language barriers right in your browser.
+
+<!--more-->
 So, I stumbled upon this wicked GitHub repo a buddy shared online, breaking down the deets on using 
 Nvidia's Isaac sim. The link? Right [here](https://github.com/SOutaHI/isaac_sim_examples/blob/main/tutorials/install/1_install.md). It looked juicy with all those visuals and explanations. 
 Honestly, I was all aboard the hype train for Nvidia's Issac sim tool. But here's the snag: my 
 Japanese skills are... well, let's just say they're non-existent. Couldn't make heads or tails of it!
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/prompt-translate-chrome-extension/images/demo4.webp" group="x1" title="Results" >}}
 
 Now, remember that time I dabbled with ChatGPT and conjured up those bedtime story shorts? Why not 
