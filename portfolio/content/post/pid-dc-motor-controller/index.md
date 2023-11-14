@@ -18,11 +18,14 @@ thumbnailImage: post/pid-dc-motor-controller/images/dc_motor_controller.webp
 ---
 
 <!-- for peek -->
+I share how I spiced up learning VHDL by programming a DC motor to hold a specific angle using an 
+Altera DE0 Nano board, creating a playful yet complex system of control and feedback with a PID controller​
+
+<!--more-->
 Hey there fellow tech enthusiasts!
 
 So, I took the plunge and bought myself an Altera DE0 Nano board off the web. Why? To delve deep into VHDL hardware description language, of course! But why settle for just the bookish examples, right? I mean, where's the fun in that?
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/pid-dc-motor-controller/images/dc_motor_controller.webp" group="x1" title="Results" >}}
 
 Seeking to make the VHDL journey a tad more exciting, I set myself a "yeah-right-that's-impossible" goal from a couple of years back. The dream? Making a DC motor stay put at a specific angle and getting it to dance to the tunes of set command angles. After all, every childhood dream of building my own humanoid robot had to start somewhere, and this seemed like a foundational step in the great robotic odyssey.
