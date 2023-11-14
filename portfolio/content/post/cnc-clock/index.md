@@ -16,11 +16,14 @@ thumbnailImage: post/cnc-clock/images/cnc_clock_front_small.webp
 ---
 
 <!-- for peek -->
+I recount cobbling together a CNC clock from salvaged tech during my time in Tokyo. Inspired by 
+Iron Man, I turned recycled parts into a time-scribing machine with a cool, industrial edge
+
+<!--more-->
 "Tony Stark was able to build this in a cave! With a box of scraps!" - That iconic line from Iron 
 Man had me shook as a kid. Sure, creating something fancy with top-notch components is cool, but 
 crafting something legit with random pieces? Now that’s where the real skill shines.
 
-<!--more-->
 {{< image classes="fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_front.webp" group="cnc-0" title="Font View">}}
 {{< image classes="clear fancybox fig-50" src="/post/cnc-clock/images/cnc_clock_back.webp" group="cnc-0" title="Back View">}}
 
