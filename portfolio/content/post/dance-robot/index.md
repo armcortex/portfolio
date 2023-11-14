@@ -13,12 +13,16 @@ thumbnailImage: post/dance-robot/images/dance_robot.webp
 ---
 
 <!-- for peek -->
+I get into the groove of robot design, creating a dancing bot from scratch. From electronic 
+circuits to coding, I made a robot with a tank-like base and arms that dance on command, powered 
+by DC motors and servo magic.
+
+<!--more-->
 As a kiddo, I always daydreamed of crafting robots. You know, the kind with flashy lights and 
 groovy moves. College came along, introducing me to the cool world of logic design, electronic 
 circuits, and some neat coding stuff. With this newfound wisdom, my dream robot? A funky little 
 dancer, obviously!
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/dance-robot/images/dance_robot.webp" group="x1" title="Results" >}}
 
 When my textbooks went mute on some topics, trusty Google stepped in. With some web wisdom and 
