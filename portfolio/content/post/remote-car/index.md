@@ -12,13 +12,17 @@ thumbnailImage: post/remote-car/images/demo.webp
 ---
 
 <!-- for peek -->
+I crafted a unique circuit board for a remote-control car as part of an Electronics Lab challenge. 
+I used an electric skateboard base, repurposed motors, and a 433MHz RF module for the remote, 
+culminating in a cool, self-designed PCB after many tweaks and trials.
+
+<!--more-->
 In my sophomore Electronics Lab, our TA threw down the gauntlet: each of us had to cook up a 
 unique circuit board – from logic design, layout, to PCB production. And, heck, I love a good 
 hands-on, crafty challenge! With the TA giving us total freedom (just had to be our own creation), 
 I was good to go. With my left hand experimenting on a breadboard and my right hand diving deep 
 into the internet, knowledge was just a click away.
 
-<!--more-->
 {{< image classes="clear fancybox fig-100" src="/post/remote-car/images/demo.webp" group="x1" title="Results" >}}
 
 Now, who can resist a kickass remote-control car? To amp up the cool factor, I went off-road and 
