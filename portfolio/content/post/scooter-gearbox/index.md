@@ -12,11 +12,14 @@ thumbnailImage: post/scooter-gearbox/images/demo.webp
 ---
 
 <!-- for peek -->
+I dove into engine magic, grabbing a busted scooter to strip down and geek out on its gearbox. 
+With some SolidWorks 3D action, I reverse-engineered the gears, turning a teardown into a tech treasure hunt
+
+<!--more-->
 After pouring immense energy into university prep, that chapter finally closed, and it was about 
 time to stir up some real fun. I hit up my mom to connect with our go-to scooter shop, asking them 
 to set aside a busted scooter for me. The goal? Diving deep into the art of engine disassembly. 
 
-<!--more-->
 Taking apart a 50cc engine was surprisingly exhausting, but man, it was a blast. I was totally 
 vibing with the engine design's intricacies, so I pitched the idea to the shop owner about taking 
 the dismantled engine home for some geeky research. The dude was super chill about it, but given 
